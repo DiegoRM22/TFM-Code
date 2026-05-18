@@ -1,0 +1,646 @@
+[
+    {
+        "question": "¿Qué se entiende por protección de las personas físicas en relación con el tratamiento de datos personales?",
+        "ground_truth": "La protección de las personas físicas en relación con el tratamiento de datos personales es un derecho fundamental.",
+        "contexts": [
+            "I (Actos legislativos) REGLAMENTOS REGLAMENTO (UE) 2016/679 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales ya la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (Texto pertinente a efectos del EEE) EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA, Visto el Tratado de Funcionamiento de la Unión Europea, y en particular su artículo 16, Vista la propuesta de la Comisión Europea, Previa transmisión del proyecto de texto legislativo a los Parlamentos nacionales, Visto el dictamen del Comité Económico y Social Europeo (1), Visto el dictamen del Comité de las Regiones (2), De conformidad con el procedimiento legislativo ordinario (3), Considerando lo siguiente: (1) La protección de las personas físicas en relación con el tratamiento de datos personales es un derecho fundamental"
+        ]
+    },
+    {
+        "question": "¿Qué principios y normas relativos a la protección de las personas físicas en lo que respecta al tratamiento de sus datos de carácter personal deben respetar?",
+        "ground_truth": "Los principios y normas relativos a la protección de las personas físicas en lo que respecta al tratamiento de sus datos de carácter personal deben, cualquiera que sea su nacionalidad o residencia, respetar sus libertades y derechos fundamentales, en particular el derecho a la protección de los datos de carácter personal.",
+        "contexts": [
+            ". El artículo 8, apartado 1, de la Carta de los Derechos Fundamentales de la Unión Europea («la Carta») y el artículo 16, apartado 1, del Tratado de Funcionamiento de la Unión Europea (TFUE) establecen que toda persona tiene derecho a la protección de los datos de carácter personal que le conciernan. (2) Los principios y normas relativos a la protección de las personas físicas en lo que respecta al tratamiento de sus datos de carácter personal deben, cualquiera que sea su nacionalidad o residencia, respetar sus libertades y derechos fundamentales, en particular el derecho a la protección de los datos de carácter personal. El presente Reglamento pretende contribuir a la plena realización de un espacio de libertad, seguridad y justicia y de una unión económica, al progreso económico y social, al refuerzo y la convergencia de las economías dentro del mercado interior, así como al bienestar de las personas físicas"
+        ]
+    },
+    {
+        "question": "¿Qué Directiva del Parlamento Europeo y del Consejo se refiere el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "La Directiva 95/46/CE del Parlamento Europeo y del Consejo",
+        "contexts": [
+            ". (3) La Directiva 95/46/CE del Parlamento Europeo y del Consejo (4) trata de armonizar la protección de los derechos y las libertades fundamentales de las personas físicas en relación con las actividades de tratamiento de datos de carácter personal y garantizar la libre circulación de estos datos entre los Estados miembros. 4.5.2016 L 119/1 Diario Oficial de la Unión Europea ES (1) DO C 229 de 31.7.2012, p. 90. (2) DO C 391 de 18.12.2012, p. 127. (3) Posición del Parlamento Europeo de 12 de marzo de 2014 (pendiente de publicación en el Diario Oficial) y posición del Consejo en primera lectura de 8 de abril de 2016 (pendiente de publicación en el Diario Oficial). Posición del Parlamento Europeo de 14 de abril de 2016. (4) Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales ya la libre circulación de estos datos (DO L 281 de 23.11.1995, p. 31)."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por el derecho a la protección de los datos personales en el RGPD?",
+        "ground_truth": "El derecho a la protección de los datos personales no es un derecho absoluto, sino que debe considerarse en relación con su función en la sociedad y mantener el equilibrio con otros derechos fundamentales, con arreglo al principio de proporcionalidad.",
+        "contexts": [
+            "(4) El tratamiento de datos personales debe estar concebido para servir a la humanidad. El derecho a la protección de los datos personales no es un derecho absoluto sino que debe considerarse en relación con su función en la sociedad y mantener el equilibrio con otros derechos fundamentales, con arreglo al principio de proporcionalidad. El presente Reglamento respeta todos los derechos fundamentales y observa las libertades y los principios reconocidos en la Carta conforme se consagran en los Tratados, en particular el respeto de la vida privada y familiar, del domicilio y de las comunicaciones, la protección de los datos de carácter personal, la libertad de pensamiento, de conciencia y de religión, la libertad de expresión y de información, la libertad de empresa, el derecho a la tutela judicial efectiva ya un juicio justo, y la diversidad cultural, religiosa y lingüística"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'flujos transfronterizos de datos personales' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se refiere a un aumento sustancial de los intercambios de datos personales entre operadores públicos y privados, incluyendo personas físicas, asociaciones y empresas, dentro de la Unión Europea.",
+        "contexts": [
+            ". (5) La integración económica y social resultante del funcionamiento del mercado interior ha llevado a un aumento sustancial de los flujos transfronterizos de datos personales. En toda la Unión se ha incrementado el intercambio de datos personales entre los operadores públicos y privados, incluidas las personas físicas, las asociaciones y las empresas. El Derecho de la Unión insta a las autoridades nacionales de los Estados miembros a que cooperen e intercambien datos personales a fin de poder cumplir sus funciones o desempeñar otras por cuenta de una autoridad de otro Estado miembro. (6) La rápida evolución tecnológica y la globalización han planteado nuevos retos para la protección de los datos personales. La magnitud de la recogida y del intercambio de datos personales ha aumentado de manera signifi­ cativa"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'un marco más sólido y coherente' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Un marco más sólido y coherente para la protección de datos en la Unión Europea, que se refiere a la necesidad de establecer un conjunto de normas y regulaciones claras y efectivas para garantizar el nivel adecuado de protección de los datos personales en la UE.",
+        "contexts": [
+            ". La magnitud de la recogida y del intercambio de datos personales ha aumentado de manera significativa. La tecnología permite que tanto las empresas privadas como las autoridades públicas utilicen datos personales en una escala sin precedentes a la hora de realizar sus actividades. Las personas físicas difunden un volumen cada vez mayor de información personal a escala mundial. La tecnología ha transformado tanto la economía como la vida social, y ha de facilitar aún más la libre circulación de datos personales dentro de la Unión y la transferencia a terceros países y organizaciones internacionales, garantizando al mismo tiempo un elevado nivel de protección de los datos personales. (7) Estos avances requieren un marco más sólido y coherente para la protección de datos en la Unión Europea, respaldado por una ejecución estricta, dada la importancia de generar la confianza que permita a la economía digital desarrollarse en todo el mercado interior"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'reforzar la seguridad jurídica y práctica' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Las personas físicas deben tener el control de sus propios datos personales. La reforzación de la seguridad jurídica y práctica se refiere a la necesidad de establecer medidas para garantizar la protección de los datos personales.",
+        "contexts": [
+            ". Las personas físicas deben tener el control de sus propios datos personales. Hay que reforzar la seguridad jurídica y práctica para las personas físicas, los operadores económicos y las autoridades públicas. (8) En los casos en que el presente Reglamento establece que sus normas sean especificadas o restringidas por el Derecho de los Estados miembros, estos, en la medida en que sea necesario por razones de coherencia y para que las disposiciones nacionales sean comprensibles para sus destinatarios, pueden incorporar a su Derecho nacional elementos del presente Reglamento. (9) Aunque los objetivos y principios de la Directiva 95/46/CE siguen siendo válidos, ello no ha impedido que la protección de los datos en el territorio de la Unión se aplique de manera fragmentada, ni la inseguridad jurídica ni una percepción generalizada entre la opinión pública de que existen riesgos importantes para la protección de las personas físicas, en particular en relación con las actividades en línea"
+        ]
+    },
+    {
+        "question": "¿Qué obstáculos pueden surgir en la libre circulación de los datos de carácter personal en la Unión?",
+        "ground_truth": "Las diferencias en el nivel de protección de los derechos y libertades de las personas físicas, en particular del derecho a la protección de los datos de carácter personal, pueden impedir la libre circulación de los datos de carácter personal en la Unión.",
+        "contexts": [
+            ". Las diferencias en el nivel de protección de los derechos y libertades de las personas físicas, en particular del derecho a la protección de los datos de carácter personal, en lo que respecta al tratamiento de dichos datos en los Estados miembros pueden impedir la libre circulación de los datos de carácter personal en la Unión. Estas diferencias pueden constituir, por lo tanto, un obstáculo al ejercicio de las actividades económicas a nivel de la Unión, falsear la competencia e impedir que las autoridades cumplan las funciones que les incumben en virtud del Derecho de la Unión. Esta diferencia en los niveles de protección se debe a la existencia de divergencias en la ejecución y aplicación de la Directiva 95/46/CE"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'nivel uniforme y elevado de protección' en el contexto del RGPD?",
+        "ground_truth": "Se refiere a garantizar que la aplicación de las normas de protección de los derechos y libertades fundamentales de las personas físicas en relación con el tratamiento de datos de carácter personal sea coherente y homogénea en toda la Unión.",
+        "contexts": [
+            ". Esta diferencia en los niveles de protección se debe a la existencia de divergencias en la ejecución y aplicación de la Directiva 95/46/CE. (10) Para garantizar un nivel uniforme y elevado de protección de las personas físicas y eliminar los obstáculos a la circulación de datos personales dentro de la Unión, el nivel de protección de los derechos y libertades de las personas físicas por lo que se refiere al tratamiento de dichos datos debe ser equivalente en todos los Estados miembros. Debe garantizarse en toda la Unión que la aplicación de las normas de protección de los derechos y libertades fundamentales de las personas físicas en relación con el tratamiento de datos de carácter personal sea coherente y homogénea"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tienen los Estados miembros para especificar la aplicación de las normas del RGPD?",
+        "ground_truth": "Los Estados miembros deben estar facultados para mantener o adoptar disposiciones nacionales a fin de especificar en mayor grado la aplicación de las normas del presente Reglamento.",
+        "contexts": [
+            ". En lo que respecta al tratamiento de datos personales para el cumplimiento de una obligación legal, para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento, los Estados miembros deben estar facultados para mantener o adoptar disposiciones nacionales a fin de especificar en mayor grado la aplicación de las normas del presente Reglamento. Junto con la normativa general y horizontal sobre protección de datos por la que se aplica la Directiva 95/46/CE, los Estados miembros cuentan con distintas normas sectoriales específicas en ámbitos que precisan disposiciones más específicas. El presente Reglamento reconoce también un margen de maniobra para que los Estados miembros especifiquen sus normas, inclusive para el tratamiento de categorías especiales de datos personales («datos sensibles»)"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de situaciones específicas de tratamiento están permitidas por el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "El Reglamento General de Protección de Datos (RGPD) permite que los Estados miembros determinen las circunstancias relativas a situaciones específicas de tratamiento, incluida la indicación pormenorizada de las condiciones en las que el tratamiento de datos personales es lícito.",
+        "contexts": [
+            ". En este sentido, el presente Reglamento no excluye el Derecho de los Estados miembros que determina las circunstancias relativas a situaciones específicas de tratamiento, incluida la indicación pormenorizada de las condiciones en las que el tratamiento de datos personales es lícito. 4.5.2016 L 119/2 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'protección efectiva de los datos personales' en el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "La protección efectiva de los datos personales en la Unión exige que se refuercen y especifiquen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal.",
+        "contexts": [
+            "(11) La protección efectiva de los datos personales en la Unión exige que se refuercen y especifiquen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal, y que en los Estados miembros se reconozcan poderes equivalentes para supervisar y garantizar el cumplimiento de las normas relativas a la protección de los datos de carácter personal y las infracciones se castiguen con sanciones equivalentes. (12) El artículo 16, apartado 2, del TFUE encomienda al Parlamento Europeo y al Consejo que establezcan las normas sobre protección de las personas físicas respecto del tratamiento de datos de carácter personal y las normas relativas a la libre circulación de dichos datos"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'supervisión coherente del tratamiento de datos personales' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se refiere a la supervisión uniforme y consistente del tratamiento de datos personales en todos los Estados miembros, con el fin de garantizar un nivel coherente de protección de las personas físicas en toda la Unión.",
+        "contexts": [
+            ". (13) Para garantizar un nivel coherente de protección de las personas físicas en toda la Unión y evitar divergencias que dificulten la libre circulación de datos personales dentro del mercado interior, es necesario un reglamento que proporcione seguridad jurídica y transparencia a los operadores económicos, incluidas las microempresas y las pequeñas y medianas empresas, y ofrezca a las personas físicas de todos los Estados miembros el mismo nivel de derechos y obligaciones exigibles y de responsabilidades para los responsables y encargados del tratamiento, con el fin de garantizar una supervisión coherente del tratamiento de datos personales y sanciones equivalentes en todos los Estados miembros, así como la cooperación efectiva entre las autoridades de control de los diferentes Estados miembros"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de organizaciones están exceptuadas en materia de llevanza de registros según el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Las microempresas y las pequeñas y medianas empresas con menos de 250 empleados.",
+        "contexts": [
+            ". El buen funcionamiento del mercado interior exige que la libre circulación de los datos personales en la Unión no sea restringida ni prohibida por motivos relacionados con la protección de las personas físicas en lo que respecta al tratamiento de datos personales. Con objeto de tener en cuenta la situación específica de las microempresas y las pequeñas y medianas empresas, el presente Reglamento incluye una serie de excepciones en materia de llevanza de registros para organizaciones con menos de 250 empleados. Además, alienta a las instituciones y órganos de la Unión ya los Estados miembros ya sus autoridades de control a tener en cuenta las necesidades específicas de las microempresas y las pequeñas y medianas empresas en la aplicación del presente Reglamento. El concepto de microempresas y pequeñas y medianas empresas debe extraerse del artículo 2 del anexo de la Recomendación 2003/361/CE de la Comisión (1)"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de entidades no están sujetas al tratamiento de datos personales regulado por el RGPD?",
+        "ground_truth": "Las personas jurídicas y empresas constituidas como personas jurídicas, incluyendo su nombre y forma de la persona jurídica y sus datos de contacto.",
+        "contexts": [
+            ". (14) La protección otorgada por el presente Reglamento debe aplicarse a las personas físicas, independientemente de su nacionalidad o de su lugar de residencia, en relación con el tratamiento de sus datos personales. El presente Reglamento no regula el tratamiento de datos personales relativos a personas jurídicas y en particular a empresas constituidas como personas jurídicas, incluido el nombre y la forma de la persona jurídica y sus datos de contacto. (15) A fin de evitar que haya un grave riesgo de elusión, la protección de las personas físicas debe ser tecnológi­ camente neutra y no debe depender de las técnicas utilizadas. La protección de las personas físicas debe aplicarse al tratamiento automatizado de datos personales, así como a su tratamiento manual, cuando los datos personales figuren en un fichero o estén destinados a ser incluidos en él"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de datos no entran en el ámbito de aplicación del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Los ficheros o conjuntos de ficheros, así como sus portadas, que no estén estructurados con arreglo a criterios específicos.",
+        "contexts": [
+            ". Los ficheros o conjuntos de ficheros, así como sus portadas, que no estén estructurados con arreglo a criterios específicos, no deben entrar en el ámbito de aplicación del presente Reglamento. (16) El presente Reglamento no se aplica a cuestiones de protección de los derechos y las libertades fundamentales o la libre circulación de datos personales relacionadas con actividades excluidas del ámbito de del Derecho de la Unión, como las actividades relativas a la seguridad nacional. Tampoco se aplica al tratamiento de datos de carácter personal por los Estados miembros en el ejercicio de las actividades relacionadas con la política exterior y de seguridad común de la Unión. (17) El Reglamento (CE) n.o 45/2001 del Parlamento Europeo y del Consejo (2) se aplica al tratamiento de datos de carácter personal por las instituciones, órganos y organismos de la Unión"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el Reglamento General de Protección de Datos en cuanto a la adaptación de otros actos jurídicos de la Unión?",
+        "ground_truth": "El Reglamento General de Protección de Datos establece que los Reglamentos (CE) n.o 45/2001 y otros actos jurídicos de la Unión aplicables al tratamiento de datos de carácter personal deben adaptarse a los principios y normas establecidos en el presente Reglamento y aplicarse a la luz del mismo.",
+        "contexts": [
+            ". El Reglamento (CE) n.o 45/2001 y otros actos jurídicos de la Unión aplicables a dicho tratamiento de datos de carácter personal deben adaptarse a los principios y normas establecidos en el presente Reglamento y aplicarse a la luz del mismo. A fin de establecer un marco sólido y coherente en materia de protección de datos en la Unión, una vez adoptado el presente Reglamento deben introducirse las adaptaciones necesarias del Reglamento (CE) n.o 45/2001, con el fin de que pueda aplicarse al mismo tiempo que el presente Reglamento. (18) El presente Reglamento no se aplica al tratamiento de datos de carácter personal por una persona física en el curso de una actividad exclusivamente personal o doméstica y, por tanto, sin conexión alguna con una actividad 4.5.2016 L 119/3 Diario Oficial de la Unión Europea ES (1) Recomendación de la Comisión de 6 de mayo de 2003 sobre la definición de microempresas, pequeñas y medianas empresas [C(2003) 1422] (DO L 124 de 20.5.2003, p. 36)"
+        ]
+    },
+    {
+        "question": "¿Qué reglamento comunitario se refiere al tratamiento de datos personales por las instituciones y los organismos comunitarios?",
+        "ground_truth": "Reglamento (CE) n.o 45/2001 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2000",
+        "contexts": [
+            ". 36). (2) Reglamento (CE) n.o 45/2001 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2000, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales por las instituciones y los organismos comunitarios ya la libre circulación de estos datos (DO L8 de 12.1.2001, p. 1)."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por actividades personales o domésticas en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se refiere a la correspondencia y la llevanza de un repertorio de direcciones, o la actividad en las redes sociales y la actividad en línea realizada en el contexto de las citadas actividades personales o domésticas.",
+        "contexts": [
+            "profesional o comercial. Entre las actividades personales o domésticas cabe incluir la correspondencia y la llevanza de un repertorio de direcciones, o la actividad en las redes sociales y la actividad en línea realizada en el contexto de las citadas actividades. No obstante, el presente Reglamento se aplica a los responsables o encargados del tratamiento que proporcionen los medios para tratar datos personales relacionados con tales actividades personales o domésticas. (19) La protección de las personas físicas en lo que respecta al tratamiento de datos de carácter personal por parte de las autoridades competentes a efectos de la prevención, investigación, detección o enjuiciamiento de infracciones penales o de la ejecución de sanciones penales, incluida la protección frente a las amenazas contra la seguridad pública y la libre circulación de estos datos y su prevención, es objeto de un acto jurídico específico a nivel de la Unión"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el tratamiento de datos personales que se destinan a fines de prevención, investigación, detección o enjuiciamiento de infracciones penales o ejecución de sanciones penales?",
+        "ground_truth": "El tratamiento de datos personales para estos fines debe regirse por un acto jurídico de la Unión más específico, concretamente la Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo.",
+        "contexts": [
+            ". El presente Reglamento no debe, por lo tanto, aplicarse a las actividades de tratamiento destinadas a tales fines. No obstante, los datos personales tratados por las autoridades públicas en aplicación del presente Reglamento deben, si se destinan a tales fines, regirse por un acto jurídico de la Unión más específico, concre­ tamente la Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo (1). Los Estados miembros pueden encomendar a las autoridades competentes, tal como se definen en la Directiva (UE) 2016/680, funciones que no se lleven a cabo necesariamente con fines de prevención, investigación, detección o enjuiciamiento de infracciones penales o ejecución de sanciones penales, incluida la protección frente a las amenazas a la seguridad pública y su prevención, de tal forma que el tratamiento de datos personales para estos otros fines, en la medida en que esté incluido en el ámbito del Derecho de la Unión, entra en el ámbito de aplicación del presente Reglamento"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tienen los Estados miembros en cuanto al tratamiento de datos personales por parte de autoridades competentes con fines que entren en el ámbito de aplicación del RGPD?",
+        "ground_truth": "Los Estados miembros deben tener la posibilidad de mantener o introducir disposiciones más específicas para adaptar la aplicación de las normas del presente Reglamento.",
+        "contexts": [
+            ". En lo que respecta al tratamiento de datos personales por parte de dichas autoridades competentes con fines que entren en el ámbito de aplicación del presente Reglamento, los Estados miembros deben tener la posibilidad de mantener o introducir disposiciones más específicas para adaptar la aplicación de las normas del presente Reglamento. Tales disposiciones pueden establecer de forma más precisa requisitos concretos para el tratamiento de datos personales con otros fines por parte de dichas autoridades competentes, tomando en consideración la estructura constitucional, organizativa y administrativa del Estado miembro en cuestión"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el Reglamento General de Protección de Datos la limitación de determinadas obligaciones y derechos?",
+        "ground_truth": "El Reglamento General de Protección de Datos aplica la limitación de determinadas obligaciones y derechos en condiciones específicas para proteger intereses específicos importantes, como la seguridad pública y la prevención, investigación, detección y enjuiciamiento de infracciones penales o la ejecución de sanciones penales, inclusive la protección frente a las amenazas contra la seguridad pública y su prevención.",
+        "contexts": [
+            ". Cuando el tratamiento de datos personales por organismos privados entre en el ámbito de aplicación del presente Reglamento, este debe disponer que los Estados miembros puedan, en condiciones específicas, limitar conforme a Derecho determinadas obligaciones y derechos siempre que dicha limitación sea una medida necesaria y proporcionada en una sociedad democrática para proteger intereses específicos importantes, entre ellos la seguridad pública y la prevención, la investigación, la detección y el enjuiciamiento de infracciones penales o la ejecución de sanciones penales, inclusive la protección frente a las amenazas contra la seguridad pública y su prevención. Esto se aplica, por ejemplo, en el marco de la lucha contra el blanqueo de capitales o de las actividades de los laboratorios de policía científica"
+        ]
+    },
+    {
+        "question": "¿Quién es el responsable de especificar las operaciones de tratamiento y los procedimientos de tratamiento en relación con el tratamiento de datos personales por los tribunales y otras autoridades judiciales?",
+        "ground_truth": "En virtud del Derecho de la Unión o de los Estados miembros",
+        "contexts": [
+            ". Esto se aplica, por ejemplo, en el marco de la lucha contra el blanqueo de capitales o de las actividades de los laboratorios de policía científica. (20) Aunque el presente Reglamento se aplica, entre otras, a las actividades de los tribunales y otras autoridades judiciales, en virtud del Derecho de la Unión o de los Estados miembros pueden especificarse las operaciones de tratamiento y los procedimientos de tratamiento en relación con el tratamiento de datos personales por los tribunales y otras autoridades judiciales. A fin de preservar la independencia del poder judicial en el desempeño de sus funciones, incluida la toma de decisiones, la competencia de las autoridades de control no debe abarcar el tratamiento de datos personales cuando los tribunales actúen en ejercicio de su función judicial"
+        ]
+    },
+    {
+        "question": "¿Quién es el responsable de controlar las operaciones de tratamiento de datos en virtud del Reglamento General de Protección de Datos?",
+        "ground_truth": "Los organismos específicos establecidos dentro del sistema judicial del Estado miembro son los responsables de controlar las operaciones de tratamiento de datos.",
+        "contexts": [
+            ". El control de esas operaciones de tratamiento de datos ha de poder encomendarse a organismos específicos establecidos dentro del sistema judicial del Estado miembro, los cuales deben, en particular, garantizar el cumplimiento de las normas del presente Reglamento, concienciar más a los miembros del poder judicial acerca de sus obligaciones en virtud de este y atender las reclamaciones en relación con tales operaciones de tratamiento de datos. (21) El presente Reglamento debe entenderse sin perjuicio de la aplicación de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo (2), en particular de las normas en materia de responsabilidad de los prestadores de servicios intermediarios establecidas en sus artículos 12 a 15. El objetivo de dicha Directiva es contribuir al correcto funcionamiento del mercado interior garantizando la libre circulación de los servicios de la sociedad de la información entre los Estados miembros"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'establecimiento' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Un establecimiento implica el ejercicio de manera efectiva y real de una actividad a través de modalidades estables. La forma jurídica que revistan tales modalidades, ya sea una sucursal o una filial con personalidad jurídica, no es el factor determinante al respecto.",
+        "contexts": [
+            ". (22) Todo tratamiento de datos personales en el contexto de las actividades de un establecimiento de un responsable o un encargado del tratamiento en la Unión debe llevarse a cabo de conformidad con el presente Reglamento, independientemente de que el tratamiento tenga lugar en la Unión. Un establecimiento implica el ejercicio de manera efectiva y real de una actividad a través de modalidades estables. La forma jurídica que revistan tales modalidades, ya sea una sucursal o una filial con personalidad jurídica, no es el factor determinante al respecto"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el Reglamento General de Protección de Datos (RGPD) al tratamiento de datos personales de interesados que residen en la Unión?",
+        "ground_truth": "El RGPD se aplica al tratamiento de datos personales de interesados que residen en la Unión cuando las actividades de tratamiento se refieren a la oferta de bienes o servicios a dichos interesados, independientemente de que medie pago.",
+        "contexts": [
+            "(23) Con el fin de garantizar que las personas físicas no se vean privadas de la protección a la que tienen derecho en virtud del presente Reglamento, el tratamiento de datos personales de interesados que residen en la Unión por un responsable o un encargado no establecido en la Unión debe regirse por el presente Reglamento si las actividades de tratamiento se refieren a la oferta de bienes o servicios a dichos interesados, independientemente de que medie pago. Para determinar si dicho responsable o encargado ofrece bienes o servicios a interesados que residan en la Unión, debe determinarse si es evidente que el responsable o el encargado proyecta ofrecer servicios a interesados en uno o varios de los Estados miembros de la Unión"
+        ]
+    },
+    {
+        "question": "¿Qué factores pueden revelar que el responsable del tratamiento proyecta ofrecer bienes o servicios a interesados en la Unión?",
+        "ground_truth": "El uso de una lengua o una moneda utilizada generalmente en uno o varios Estados miembros con la posibilidad de encargar bienes y servicios en esa otra lengua, o la mención de clientes o usuarios que residen en la Unión.",
+        "contexts": [
+            ". Si bien la mera accesibilidad del sitio web del responsable o encargado o de un intermediario en la Unión, de una dirección de correo electrónico u otros datos de contacto, o el uso de una lengua generalmente utilizada en el tercer país donde resida el responsable del tratamiento, no basta para determinar dicha intención, hay factores, como el uso de una lengua o una moneda utilizada generalmente en uno o varios Estados miembros con la posibilidad de encargar bienes y servicios en esa otra lengua, o la mención de clientes o usuarios que residen en la Unión, que pueden revelar que el responsable del tratamiento proyecta ofrecer bienes o servicios a interesados en la Unión"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'actividad de tratamiento' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se entiende por 'actividad de tratamiento' la observación del comportamiento de los interesados en la medida en que este comportamiento tenga lugar en la Unión, incluyendo el potencial uso posterior de técnicas de tratamiento de datos personales que consistan en la elaboración de un perfil de una persona física con el fin, en particular, de adoptar decisiones sobre él o de analizar o predecir sus preferencias personales, comportamientos y actitudes.",
+        "contexts": [
+            ". (24) El tratamiento de datos personales de los interesados que residen en la Unión por un responsable o encargado no establecido en la Unión debe ser también objeto del presente Reglamento cuando esté relacionado con la observación del comportamiento de dichos interesados en la medida en que este comportamiento tenga lugar en la Unión. Para determinar si se puede considerar que una actividad de tratamiento controla el comportamiento de los interesados, debe evaluarse si las personas físicas son objeto de un seguimiento en internet, inclusive el potencial uso posterior de técnicas de tratamiento de datos personales que consistan en la elaboración de un perfil de una persona física con el fin, en particular, de adoptar decisiones sobre él o de analizar o predecir sus preferencias personales, comportamientos y actitudes"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por información sobre una persona física identificable en el RGPD?",
+        "ground_truth": "Se entiende como cualquier dato que, mediante la utilización de información adicional, pueda ser atribuido a una persona física. Esto incluye datos personales seudonimizados que razonablemente puedan ser utilizados para identificar directa o indirectamente a la persona física.",
+        "contexts": [
+            ". (25) Cuando sea de aplicación el Derecho de los Estados miembros en virtud del Derecho internacional público, el presente Reglamento debe aplicarse también a todo responsable del tratamiento no establecido en la Unión, como en una misión diplomática u oficina consular de un Estado miembro. (26) Los principios de la protección de datos deben aplicarse a toda la información relativa a una persona física identificada o identificable. Los datos personales seudonimizados, que cabría atribuir a una persona física mediante la utilización de información adicional, deben considerarse información sobre una persona física identi­ ficable. Para determinar si una persona física es identificable, deben tenerse en cuenta todos los medios, como la singularización, que razonablemente pueda utilizar el responsable del tratamiento o cualquier otra persona para identificar directa o indirectamente a la persona física"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de información no está sujeta al Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "La información anónima, es decir, la que no guarda relación con una persona física identificada o identificable, ni los datos convertidos en anónimos de forma que el interesado no sea identificable, o deje de serlo.",
+        "contexts": [
+            ". Para determinar si existe una probabilidad razonable de que se utilicen medios para identificar a una persona física, deben tenerse en cuenta todos los factores objetivos, como los costes y el tiempo necesarios para la identificación, teniendo en cuenta tanto la tecnología disponible en el momento del tratamiento como los avances tecnológicos. Por lo tanto los principios de protección de datos no deben aplicarse a la información anónima, es decir información que no guarda relación con una persona física identificada o identificable, ni a los datos convertidos en anónimos de forma que el interesado no sea identi­ ficable, o deje de serlo. En consecuencia, el presente Reglamento no afecta al tratamiento de dicha información anónima, inclusive con fines estadísticos o de investigación. (27) El presente Reglamento no se aplica a la protección de datos personales de personas fallecidas"
+        ]
+    },
+    {
+        "question": "¿En qué casos no aplica el Reglamento General de Protección de Datos (RGPD) a la protección de datos personales?",
+        "ground_truth": "El presente Reglamento no se aplica a la protección de datos personales de personas fallecidas.",
+        "contexts": [
+            ". (27) El presente Reglamento no se aplica a la protección de datos personales de personas fallecidas. Los Estados miembros son competentes para establecer normas relativas al tratamiento de los datos personales de estas. (28) La aplicación de la seudonimización a los datos personales puede reducir los riesgos para los interesados afectados y ayudar a los responsables ya los encargados del tratamiento a cumplir sus obligaciones de protección de los datos. Así pues, la introducción explícita de la «seudonimización» en el presente Reglamento no pretende excluir ninguna otra medida relativa a la protección de los datos"
+        ]
+    },
+    {
+        "question": "¿Qué medidas debe adoptar un responsable del tratamiento para garantizar que se aplique el Reglamento General de Protección de Datos al tratamiento correspondiente y mantener por separado la información adicional para la atribución de los datos personales a una persona concreta?",
+        "ground_truth": "El responsable del tratamiento debe adoptar medidas técnicas y organizativas necesarias para garantizar que se aplique el presente Reglamento al tratamiento correspondiente y que se mantenga por separado la información adicional para la atribución de los datos personales a una persona concreta.",
+        "contexts": [
+            ". (29) Para incentivar la aplicación de la seudonimización en el tratamiento de datos personales, debe ser posible establecer medidas de seudonimización, permitiendo al mismo tiempo un análisis general, por parte del mismo responsable del tratamiento, cuando este haya adoptado las medidas técnicas y organizativas necesarias para garantizar que se aplique el presente Reglamento al tratamiento correspondiente y que se mantenga por separado la información adicional para la atribución de los datos personales a una persona concreta. El responsable que trate datos personales debe indicar cuáles son sus personas autorizadas. 4.5.2016 L 119/5 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de identificadores pueden ser asociados a personas físicas según el RGPD?",
+        "ground_truth": "Según el RGPD, los identificadores en línea facilitados por dispositivos, aplicaciones, herramientas y protocolos, como direcciones de los protocolos de internet, identificadores de sesión en forma de 'cookies' u otros identificadores, como etiquetas de identificación por radiofrecuencia.",
+        "contexts": [
+            "(30) Las personas físicas pueden ser asociadas a identificadores en línea facilitados por sus dispositivos, aplicaciones, herramientas y protocolos, como direcciones de los protocolos de internet, identificadores de sesión en forma de «cookies» u otros identificadores, como etiquetas de identificación por radiofrecuencia. Esto puede dejar huellas que, en particular, al ser combinadas con identificadores únicos y otros datos recibidos por los servidores, pueden ser utilizadas para elaborar perfiles de las personas físicas e identificarlas"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'destinatario de datos' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Las autoridades públicas a las que se comunican datos personales en virtud de una obligación legal para el ejercicio de su misión oficial, como las autoridades fiscales y aduaneras, las unidades de investigación financiera, las autoridades administrativas independientes o los organismos de supervisión de los mercados financieros encargados de la reglamentación y supervisión de los mercados de valores, no deben considerarse destinatarios de datos si reciben datos personales que son necesarios para llevar a cabo una investigación concreta de interés general, de conformidad con el Derecho de la Unión o de los Estados miembros.",
+        "contexts": [
+            ". (31) Las autoridades públicas a las que se comunican datos personales en virtud de una obligación legal para el ejercicio de su misión oficial, como las autoridades fiscales y aduaneras, las unidades de investigación financiera, las autoridades administrativas independientes o los organismos de supervisión de los mercados financieros encargados de la reglamentación y supervisión de los mercados de valores, no deben considerarse destinatarios de datos si reciben datos personales que son necesarios para llevar a cabo una investigación concreta de interés general, de conformidad con el Derecho de la Unión o de los Estados miembros. Las solicitudes de comunicación de las autoridades públicas siempre deben presentarse por escrito, de forma motivada y con carácter ocasional, y no deben referirse a la totalidad de un fichero ni dar lugar a la interconexión de varios ficheros"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por consentimiento en el contexto del RGPD?",
+        "ground_truth": "El consentimiento debe darse mediante un acto afirmativo claro que refleje una manifestación de voluntad libre, específica, informada, e inequívoca del interesado de aceptar el tratamiento de datos de carácter personal que le conciernen.",
+        "contexts": [
+            ". El tratamiento de datos personales por dichas autoridades públicas debe ser conforme con la normativa en materia de protección de datos que sea de aplicación en función de la finalidad del tratamiento. (32) El consentimiento debe darse mediante un acto afirmativo claro que refleje una manifestación de voluntad libre, específica, informada, e inequívoca del interesado de aceptar el tratamiento de datos de carácter personal que le conciernen, como una declaración por escrito, inclusive por medios electrónicos, o una declaración verbal. Esto podría incluir marcar una casilla de un sitio web en internet, escoger parámetros técnicos para la utilización de servicios de la sociedad de la información, o cualquier otra declaración o conducta que indique claramente en este contexto que el interesado acepta la propuesta de tratamiento de sus datos personales. Por tanto, el silencio, las casillas ya marcadas o la inacción no deben constituir consentimiento"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por consentimiento en el contexto del RGPD?",
+        "ground_truth": "El consentimiento debe darse para todas las actividades de tratamiento realizadas con el mismo o los mismos fines. Cuando el tratamiento tenga varios fines, debe darse el consentimiento para todos ellos.",
+        "contexts": [
+            ". Por tanto, el silencio, las casillas ya marcadas o la inacción no deben constituir consentimiento. El consentimiento debe darse para todas las actividades de tratamiento realizadas con el mismo o los mismos fines. Cuando el tratamiento tenga varios fines, debe darse el consentimiento para todos ellos. Si el consentimiento del interesado se ha de dar a raíz de una solicitud por medios electrónicos, la solicitud ha de ser clara, concisa y no perturbar innecesariamente el uso del servicio para el que se presta. (33) Con frecuencia no es posible determinar totalmente la finalidad del tratamiento de los datos personales con fines de investigación científica en el momento de su recogida. Por consiguiente, debe permitirse a los interesados dar su consentimiento para determinados ámbitos de investigación científica que respeten las normas éticas reconocidas para la investigación científica"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por datos personales relativos a la salud en el RGPD?",
+        "ground_truth": "Todos los datos relativos al estado de salud del interesado que dan información sobre su estado de salud física o mental pasado, presente o futuro",
+        "contexts": [
+            ". Los interesados deben tener la oportunidad de dar su consentimiento solamente para determinadas áreas de investigación o partes de proyectos de investigación, en la medida en que lo permita la finalidad perseguida. (34) Debe entenderse por datos genéticos los datos personales relacionados con características genéticas, heredadas o adquiridas, de una persona física, provenientes del análisis de una muestra biológica de la persona física en cuestión, en particular a través de un análisis cromosómico, un análisis del ácido desoxirribonucleico (ADN) o del ácido ribonucleico (ARN), o del análisis de cualquier otro elemento que permita obtener información equivalente. (35) Entre los datos personales relativos a la salud se deben incluir todos los datos relativos al estado de salud del interesado que dan información sobre su estado de salud física o mental pasado, presente o futuro"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de información se incluye en el ámbito de la protección de datos sanitarios según el Reglamento General de Protección de Datos?",
+        "ground_truth": "Se incluyen la información sobre la persona física recogida con ocasión de su inscripción a efectos de asistencia sanitaria, o con ocasión de la prestación de tal asistencia, todo número, símbolo o dato asignado a una persona física que la identifique de manera unívoca a efectos sanitarios; la información obtenida de pruebas o exámenes de una parte del cuerpo o de una sustancia corporal, incluida la procedente de datos genéticos y muestras biológicas, y cualquier información relativa, a título de ejemplo, a una enfermedad, una discapacidad, el riesgo de padecer enfermedades, el historial médico, el tratamiento clínico o el estado fisiológico o biomédico del interesado.",
+        "contexts": [
+            ". Se incluye la información sobre la persona física recogida con ocasión de su inscripción a efectos de asistencia sanitaria, o con ocasión de la prestación de tal asistencia, de conformidad con la Directiva 2011/24/UE del Parlamento Europeo y del Consejo (1); todo número, símbolo o dato asignado a una persona física que la identifique de manera unívoca a efectos sanitarios; la información obtenida de pruebas o exámenes de una parte del cuerpo o de una sustancia corporal, incluida la procedente de datos genéticos y muestras biológicas, y cualquier información relativa, a título de ejemplo, a una enfermedad, una discapacidad, el riesgo de padecer enfermedades, el historial médico, el tratamiento clínico o el estado fisiológico o biomédico del interesado, independientemente de su fuente, por ejemplo un médico u otro profesional sanitario, un hospital, un dispositivo médico, o una prueba diagnóstica in vitro"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el establecimiento principal de un responsable del tratamiento en la Unión?",
+        "ground_truth": "El establecimiento principal de un responsable del tratamiento en la Unión aplica cuando las decisiones relativas a los fines y medios del tratamiento de los datos personales se toman en otro establecimiento del responsable en la Unión.",
+        "contexts": [
+            ". (36) El establecimiento principal de un responsable del tratamiento en la Unión debe ser el lugar de su administración central en la Unión, salvo que las decisiones relativas a los fines y medios del tratamiento de los datos personales se tomen en otro establecimiento del responsable en la Unión, en cuyo caso, ese otro establecimiento debe 4.5.2016 L 119/6 Diario Oficial de la Unión Europea ES (1) Directiva 2011/24/UE del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, relativa a la aplicación de los derechos de los pacientes en la asistencia sanitaria transfronteriza (DO L 88 de 4.4.2011, p. 45)."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por establecimiento principal de un responsable en la Unión?",
+        "ground_truth": "El establecimiento principal de un responsable en la Unión debe determinarse en función de criterios objetivos y debe implicar el ejercicio efectivo y real de actividades de gestión que determinen las principales decisiones en cuanto a los fines y medios del tratamiento a través de modalidades estables.",
+        "contexts": [
+            "considerarse el establecimiento principal. El establecimiento principal de un responsable en la Unión debe determinarse en función de criterios objetivos y debe implicar el ejercicio efectivo y real de actividades de gestión que determinen las principales decisiones en cuanto a los fines y medios del tratamiento a través de modalidades estables. Dicho criterio no debe depender de si el tratamiento de los datos personales se realiza en dicho lugar. La presencia y utilización de medios técnicos y tecnologías para el tratamiento de datos personales o las actividades de tratamiento no constituyen, en sí mismas, establecimiento principal y no son, por lo tanto, criterios determi­ nantes de un establecimiento principal. El establecimiento principal del encargado del tratamiento debe ser el lugar de su administración central en la Unión o, si careciese de administración central en la Unión, el lugar en el que se llevan a cabo las principales actividades de tratamiento en la Unión"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica la autoridad de control del encargado como autoridad de control interesada en el RGPD?",
+        "ground_truth": "La autoridad de control del encargado se considera autoridad de control interesada cuando implique tanto al responsable como al encargado, y debe participar en el procedimiento de cooperación establecido en el presente Reglamento.",
+        "contexts": [
+            ". En los casos que impliquen tanto al responsable como al encargado, la autoridad de control principal competente debe seguir siendo la autoridad de control del Estado miembro en el que el responsable tenga su establecimiento principal, pero la autoridad de control del encargado debe considerarse autoridad de control interesada y participar en el procedimiento de cooperación establecido en el presente Reglamento. En cualquier caso, las autoridades de control del Estado miembro o los Estados miembros en los que el encargado tenga uno o varios establecimientos no deben considerarse autoridades de control interesadas cuando el proyecto de decisión afecte únicamente al responsable. Cuando el tratamiento lo realice un grupo empresarial, el establecimiento principal de la empresa que ejerce el control debe considerarse el establecimiento principal del grupo empresarial, excepto cuando los fines y medios del tratamiento los determine otra empresa"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'grupo empresarial' en el RGPD?",
+        "ground_truth": "Un grupo empresarial se refiere a una empresa que ejerce el control y las empresas controladas, debiendo ser la empresa que ejerce el control la que pueda ejercer una influencia dominante en las otras empresas, por razones de propiedad, participación financiera, normas por las que se rige, o poder de hacer cumplir las normas de protección de datos personales.",
+        "contexts": [
+            ". (37) Un grupo empresarial debe estar constituido por una empresa que ejerce el control y las empresas controladas, debiendo ser la empresa que ejerce el control la que pueda ejercer una influencia dominante en las otras empresas, por razones, por ejemplo, de propiedad, participación financiera, normas por las que se rige, o poder de hacer cumplir las normas de protección de datos personales. Una empresa que controle el tratamiento de los datos personales en las empresas que estén afiliadas debe considerarse, junto con dichas empresas, «grupo empresarial». (38) Los niños merecen una protección específica de sus datos personales, ya que pueden ser menos conscientes de los riesgos, consecuencias, garantías y derechos concernientes al tratamiento de datos personales"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por protección específica en el contexto de niños?",
+        "ground_truth": "La protección específica se refiere a la aplicación de medidas adicionales para garantizar la protección de datos personales de niños con fines de mercadotecnia o elaboración de perfiles de personalidad o de usuario, así como la obtención de datos personales relativos a niños cuando se utilicen servicios ofrecidos directamente a un niño.",
+        "contexts": [
+            ". Dicha protección específica debe aplicarse en particular, a la utilización de datos personales de niños con fines de mercadotecnia o elaboración de perfiles de personalidad o de usuario, ya la obtención de datos personales relativos a niños cuando se utilicen servicios ofrecidos directamente a un niño. El consentimiento del titular de la patria potestad o tutela no debe ser necesario en el contexto de los servicios preventivos o de asesoramiento ofrecidos directamente a los niños. (39) Todo tratamiento de datos personales debe ser lícito y leal. Para las personas físicas debe quedar totalmente claro que se están recogiendo, utilizando, consultando o tratando de otra manera datos personales que les conciernen, así como la medida en que dichos datos son o serán tratados. El principio de transparencia exige que toda información y comunicación relativa al tratamiento de dichos datos sea fácilmente accesible y fácil de entender, y que se utilice un lenguaje sencillo y claro"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por fines específicos del tratamiento de datos personales en el RGPD?",
+        "ground_truth": "En el RGPD, los fines específicos del tratamiento de datos personales se refieren a la finalidad explícita y legítima para la que se recopilaron los datos personales. Estos fines deben ser determinados en el momento de la recopilación de los datos y ser adecuados, pertinentes y limitados a lo necesario para alcanzar dicha finalidad.",
+        "contexts": [
+            ". Dicho principio se refiere en particular a la información de los interesados sobre la identidad del responsable del tratamiento y los fines del mismo ya la información añadida para garantizar un tratamiento leal y transparente con respecto a las personas físicas afectadas ya su derecho a obtener confirmación y comunicación de los datos personales que les conciernan que sean objeto de tratamiento. Las personas físicas deben tener conocimiento de los riesgos, las normas, las salvaguardias y los derechos relativos al tratamiento de datos personales así como del modo de hacer valer sus derechos en relación con el tratamiento. En particular, los fines específicos del tratamiento de los datos personales deben ser explícitos y legítimos, y deben determinarse en el momento de su recogida. Los datos personales deben ser adecuados, pertinentes y limitados a lo necesario para los fines para los que sean tratados"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento para garantizar que los datos personales no se conserven más tiempo del necesario?",
+        "ground_truth": "El responsable del tratamiento debe establecer plazos para la supresión o revisión periódica de los datos personales y tomar todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos.",
+        "contexts": [
+            ". Los datos personales deben ser adecuados, pertinentes y limitados a lo necesario para los fines para los que sean tratados. Ello requiere, en particular, garantizar que se limite a un mínimo estricto su plazo de conservación. Los datos personales solo deben tratarse si la finalidad del tratamiento no pudiera lograrse razonablemente por otros medios. Para garantizar que los datos personales no se conservan más tiempo del necesario, el responsable del tratamiento ha de establecer plazos para su supresión o revisión periódica. Deben tomarse todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos. Los datos personales deben tratarse de un modo que garantice una seguridad y confidencialidad adecuadas de los datos personales, inclusive para impedir el acceso o uso no autorizados de dichos datos y del equipo utilizado en el tratamiento"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'base jurídica' en el contexto del RGPD?",
+        "ground_truth": "Se refiere a una norma o medida legislativa clara y precisa que sea aplicable para los destinatarios, sin necesidad de un acto legislativo adoptado por un parlamento, siempre y cuando cumpla con la jurisprudencia del Tribunal de Justicia y del Tribunal Europeo de Derechos Humanos.",
+        "contexts": [
+            "otro Derecho de la Unión o de los Estados miembros a que se refiera el presente Reglamento, incluida la necesidad de cumplir la obligación legal aplicable al responsable del tratamiento o la necesidad de ejecutar un contrato en el que sea parte el interesado o con objeto de tomar medidas a instancia del interesado con anterioridad a la conclusión de un contrato. (41) Cuando el presente Reglamento hace referencia a una base jurídica oa una medida legislativa, esto no exige necesariamente un acto legislativo adoptado por un parlamento, sin perjuicio de los requisitos de conformidad del ordenamiento constitucional del Estado miembro de que se trate. Sin embargo, dicha base jurídica o medida legislativa debe ser clara y precisa y su aplicación previsible para sus destinatarios, de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea (en lo sucesivo, «Tribunal de Justicia») y del Tribunal Europeo de Derechos Humanos"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento cuando se lleva a cabo un tratamiento con consentimiento del interesado?",
+        "ground_truth": "El responsable del tratamiento debe ser capaz de demostrar que el interesado ha dado su consentimiento y proporcionar un modelo de declaración de consentimiento elaborado previamente, con una formulación inteligible y de fácil acceso, que emplee un lenguaje claro y sencillo, y no contenga cláusulas abusivas.",
+        "contexts": [
+            ". (42) Cuando el tratamiento se lleva a cabo con el consentimiento del interesado, el responsable del tratamiento debe ser capaz de demostrar que aquel ha dado su consentimiento a la operación de tratamiento. En particular en el contexto de una declaración por escrito efectuada sobre otro asunto, debe haber garantías de que el interesado es consciente del hecho de que da su consentimiento y de la medida en que lo hace. De acuerdo con la Directiva 93/13/CEE del Consejo (1), debe proporcionarse un modelo de declaración de consentimiento elaborado previamente por el responsable del tratamiento con una formulación inteligible y de fácil acceso que emplee un lenguaje claro y sencillo, y que no contenga cláusulas abusivas. Para que el consentimiento sea informado, el interesado debe conocer como mínimo la identidad del responsable del tratamiento y los fines del tratamiento a los cuales están destinados los datos personales"
+        ]
+    },
+    {
+        "question": "¿En qué casos no se considera que el consentimiento ha sido libremente prestado?",
+        "ground_truth": "El consentimiento no se considera libremente prestado cuando el interesado no goza de verdadera o libre elección o no puede denegar o retirar su consentimiento sin sufrir perjuicio alguno. Esto ocurre en particular cuando exista un desequilibrio claro entre el interesado y el responsable del tratamiento, como cuando el responsable es una autoridad pública.",
+        "contexts": [
+            ". El consentimiento no debe considerarse libremente prestado cuando el interesado no goza de verdadera o libre elección o no puede denegar o retirar su consentimiento sin sufrir perjuicio alguno. (43) Para garantizar que el consentimiento se haya dado libremente, este no debe constituir un fundamento jurídico válido para el tratamiento de datos de carácter personal en un caso concreto en el que exista un desequilibro claro entre el interesado y el responsable del tratamiento, en particular cuando dicho responsable sea una autoridad pública y sea por lo tanto improbable que el consentimiento se haya dado libremente en todas las circunstancias de dicha situación particular"
+        ]
+    },
+    {
+        "question": "¿En qué casos no se presume que el consentimiento se ha dado libremente?",
+        "ground_truth": "No se presume que el consentimiento se ha dado libremente cuando no permita autorizar por separado las distintas operaciones de tratamiento de datos personales pese a ser adecuado en el caso concreto, o cuando el cumplimiento de un contrato, incluida la prestación de un servicio, sea dependiente del consentimiento, aún cuando este no sea necesario para dicho cumplimiento.",
+        "contexts": [
+            ". Se presume que el consentimiento no se ha dado libremente cuando no permita autorizar por separado las distintas operaciones de tratamiento de datos personales pese a ser adecuado en el caso concreto, o cuando el cumplimiento de un contrato, incluida la prestación de un servicio, sea dependiente del consentimiento, aún cuando este no sea necesario para dicho cumplimiento. (44) El tratamiento debe ser lícito cuando sea necesario en el contexto de un contrato o de la intención de concluir un contrato. (45) Cuando se realice en cumplimiento de una obligación legal aplicable al responsable del tratamiento, o si es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, el tratamiento debe tener una base en el Derecho de la Unión o de los Estados miembros. El presente Reglamento no requiere que cada tratamiento individual se rija por una norma específica"
+        ]
+    },
+    {
+        "question": "En qué casos aplica la norma como base para varias operaciones de tratamiento de datos según el RGPD?",
+        "ground_truth": "La norma puede ser suficiente como base para varias operaciones de tratamiento de datos basadas en una obligación legal aplicable al responsable del tratamiento, o si el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos.",
+        "contexts": [
+            ". El presente Reglamento no requiere que cada tratamiento individual se rija por una norma específica. Una norma puede ser suficiente como base para varias operaciones de tratamiento de datos basadas en una obligación legal aplicable al responsable del tratamiento, o si el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos. La finalidad del tratamiento también debe determinase en virtud del Derecho de la Unión o de los Estados miembros"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por finalidad del tratamiento en el RGPD?",
+        "ground_truth": "La finalidad del tratamiento se refiere a la razón por la que se recopilan y procesan los datos personales, que debe determinarse en virtud del Derecho de la Unión o de los Estados miembros.",
+        "contexts": [
+            ". La finalidad del tratamiento también debe determinase en virtud del Derecho de la Unión o de los Estados miembros. Además, dicha norma podría especificar las condiciones generales del presente Reglamento por las que se rige la licitud del tratamiento de datos personales, establecer especificaciones para la determinación del responsable del tratamiento, el tipo de datos personales objeto de tratamiento, los interesados afectados, las entidades a las que se pueden comunicar los datos personales, las limitaciones de la finalidad, el plazo de conservación de los datos y otras medidas para garantizar un tratamiento lícito y leal"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'responsable del tratamiento' en el contexto de la protección de datos personales?",
+        "ground_truth": "En virtud del Reglamento General de Protección de Datos (RGPD), el responsable del tratamiento es una persona física o jurídica que realiza una misión en interés público o en el ejercicio de poderes públicos, o cuando se hace en interés público, incluidos fines sanitarios como la salud pública, la protección social y la gestión de los servicios de sanidad, de Derecho privado, como una asociación profesional.",
+        "contexts": [
+            ". Debe determinarse también en virtud del Derecho de la Unión o de los Estados miembros si el responsable del tratamiento que realiza una misión en interés público o en el ejercicio de poderes públicos debe ser una autoridad pública u otra persona física o jurídica de Derecho público, o, cuando se haga en interés público, incluidos fines sanitarios como la salud pública, la protección social y la gestión de los servicios de sanidad, de Derecho privado, como una asociación profesional. (46) El tratamiento de datos personales también debe considerarse lícito cuando sea necesario para proteger un interés esencial para la vida del interesado o la de otra persona física. En principio, los datos personales únicamente 4.5.2016 L 119/8 Diario Oficial de la Unión Europea ES (1) Directiva 93/13/CEE del Consejo, de 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores (DO L 95 de 21.4.1993, p. 29)."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'base jurídica' en el contexto del RGPD?",
+        "ground_truth": "Se entiende por 'base jurídica' en el contexto del RGPD, según el fragmento, la existencia de una razón válida que justifique el tratamiento de datos personales, como puede ser el interés vital de otra persona física, motivos importantes de interés público o el interés legítimo de un responsable del tratamiento.",
+        "contexts": [
+            "deben tratarse sobre la base del interés vital de otra persona física cuando el tratamiento no pueda basarse manifiestamente en una base jurídica diferente. Ciertos tipos de tratamiento pueden responder tanto a motivos importantes de interés público como a los intereses vitales del interesado, como por ejemplo cuando el tratamiento es necesario para fines humanitarios, incluido el control de epidemias y su propagación, o en situaciones de emergencia humanitaria, sobre todo en caso de catástrofes naturales o de origen humano. (47) El interés legítimo de un responsable del tratamiento, incluso el de un responsable al que se puedan comunicar datos personales, o de un tercero, puede constituir una base jurídica para el tratamiento, siempre que no prevalezcan los intereses o los derechos y libertades del interesado, teniendo en cuenta las expectativas razonables de los interesados basadas en su relación con el responsable"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el concepto de interés legítimo en el tratamiento de datos personales?",
+        "ground_truth": "El concepto de interés legítimo se aplica cuando existe una relación pertinente y apropiada entre el interesado y el responsable, como en situaciones en las que el interesado es cliente o está al servicio del responsable. Además, también se considera un interés legítimo cuando se puede realizar una evaluación meticulosa y razonable de la recogida de datos personales.",
+        "contexts": [
+            ". Tal interés legítimo podría darse, por ejemplo, cuando existe una relación pertinente y apropiada entre el interesado y el responsable, como en situaciones en las que el interesado es cliente o está al servicio del responsable. En cualquier caso, la existencia de un interés legítimo requeriría una evaluación meticulosa, inclusive si un interesado puede prever de forma razonable, en el momento y en el contexto de la recogida de datos personales, que pueda producirse el tratamiento con tal fin. En particular, los intereses y los derechos fundamentales del interesado podrían prevalecer sobre los intereses del responsable del tratamiento cuando se proceda al tratamiento de los datos personales en circunstancias en las que el interesado no espere razonablemente que se realice un tratamiento ulterior"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por interés legítimo en el contexto del RGPD?",
+        "ground_truth": "El interés legítimo se refiere al tratamiento de datos personales que no requiere consentimiento ni otra base jurídica, ya sea debido a la prevención del fraude, fines de mercadotecnia directa o tratamientos administrativos internos dentro de un grupo empresarial.",
+        "contexts": [
+            ". Dado que corresponde al legislador establecer por ley la base jurídica para el tratamiento de datos personales por parte de las autoridades públicas, esta base jurídica no debe aplicarse al tratamiento efectuado por las autoridades públicas en el ejercicio de sus funciones. El tratamiento de datos de carácter personal estrictamente necesario para la prevención del fraude constituye también un interés legítimo del responsable del tratamiento de que se trate. El tratamiento de datos personales con fines de mercadotecnia directa puede considerarse realizado por interés legítimo. (48) Los responsables que forman parte de un grupo empresarial o de entidades afiliadas a un organismo central pueden tener un interés legítimo en transmitir datos personales dentro del grupo empresarial para fines adminis­ trativos internos, incluido el tratamiento de datos personales de clientes o empleados"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'principios generales aplicables' en el contexto de la transmisión de datos personales dentro de un grupo empresarial?",
+        "ground_truth": "Los principios generales aplicables se refieren a los principios que rigen la transmisión de datos personales dentro de un grupo empresarial, sin ser afectados por la ubicación del país tercero donde se encuentra la empresa receptora.",
+        "contexts": [
+            ". Los principios generales aplicables a la transmisión de datos personales, dentro de un grupo empresarial, a una empresa situada en un país tercero no se ven afectados"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por interés legítimo del responsable del tratamiento interesado en el contexto del RGPD?",
+        "ground_truth": "El interés legítimo del responsable del tratamiento interesado se refiere al tratamiento de datos personales para garantizar la seguridad de la red y de la información, es decir, la capacidad de una red o sistema información de resistir a acontecimientos accidentales o acciones ilícitas que comprometan la disponibilidad, autenticidad, integridad y confidencialidad de los datos personales conservados o transmitidos.",
+        "contexts": [
+            ". (49) Constituye un interés legítimo del responsable del tratamiento interesado el tratamiento de datos personales en la medida estrictamente necesaria y proporcionada para garantizar la seguridad de la red y de la información, es decir la capacidad de una red o de un sistema información de resistir, en un nivel determinado de confianza, a acontecimientos accidentales o acciones ilícitas o malintencionadas que comprometan la disponibilidad, autenticidad, integridad y confidencialidad de los datos personales conservados o transmitidos, y la seguridad de los servicios conexos ofrecidos por, o accesibles a través de, estos sistemas y redes, por parte de autoridades públicas, equipos de respuesta a emergencias informáticas (CERT), equipos de respuesta a incidentes de seguridad informática (CSIRT), proveedores de redes y servicios de comunicaciones electrónicas y proveedores de tecnologías y servicios de seguridad"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por tratamiento de datos personales con fines distintos a aquellos para los que hayan sido recogidos inicialmente?",
+        "ground_truth": "El tratamiento de datos personales con fines distintos a aquellos para los que hayan sido recogidos inicialmente solo debe permitirse cuando sea compatible con los fines de su recogida inicial.",
+        "contexts": [
+            ". En lo anterior cabría incluir, por ejemplo, impedir el acceso no autorizado a las redes de comunicaciones electrónicas y la distribución malintencionada de códigos, y frenar ataques de «denegación de servicio» y daños a los sistemas informáticos y de comunicaciones electrónicas. (50) El tratamiento de datos personales con fines distintos de aquellos para los que hayan sido recogidos inicialmente solo debe permitirse cuando sea compatible con los fines de su recogida inicial. En tal caso, no se requiere una base jurídica aparte, distinta de la que permitió la obtención de los datos personales. Si el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento, los cometidos y los fines para los cuales se debe considerar compatible y lícito el tratamiento ulterior se pueden determinar y especificar de acuerdo con el Derecho de la Unión o de los Estados miembros"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por operaciones de tratamiento lícitas compatibles en el contexto del RGPD?",
+        "ground_truth": "Las operaciones de tratamiento ulterior con fines de archivo en interés público, fines de investigación científica e histórica o fines estadísticos deben considerarse operaciones de tratamiento lícitas compatibles.",
+        "contexts": [
+            ". Las operaciones de tratamiento ulterior con fines de archivo en interés público, fines de investigación científica e histórica o fines estadísticos deben considerarse operaciones de tratamiento lícitas compatibles. La base jurídica establecida en el Derecho de la Unión o de los Estados miembros para el tratamiento de datos personales también puede servir de base jurídica para el tratamiento ulterior. Con objeto de determinar si el fin del tratamiento ulterior es compatible con el fin de la recogida inicial de los datos personales, el responsable del tratamiento, tras haber cumplido todos los requisitos para la licitud del tratamiento original, debe tener en cuenta, entre otras cosas, cualquier relación entre estos fines y los fines del tratamiento ulterior previsto, el contexto en el que se recogieron los datos, en particular las expectativas razonables del interesado 4.5.2016 L 119/9 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'garantías adecuadas' en el contexto del tratamiento ulterior de datos personales?",
+        "ground_truth": "Se refiere a la existencia de garantías adecuadas tanto en la operación de tratamiento original como en la operación de tratamiento ulterior prevista.",
+        "contexts": [
+            "basadas en su relación con el responsable en cuanto a su uso posterior, la naturaleza de los datos personales, las consecuencias para los interesados del tratamiento ulterior previsto y la existencia de garantías adecuadas tanto en la operación de tratamiento original como en la operación de tratamiento ulterior prevista. Si el interesado dio su consentimiento o el tratamiento se basa en el Derecho de la Unión o de los Estados miembros que constituye una medida necesaria y proporcionada en una sociedad democrática para salvaguardar, en particular, objetivos importantes de interés público general, el responsable debe estar facultado para el tratamiento ulterior de los datos personales, con independencia de la compatibilidad de los fines. En todo caso, se debe garantizar la aplicación de los principios establecidos por el presente Reglamento y, en particular, la información del interesado sobre esos otros fines y sobre sus derechos, incluido el derecho de oposición"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica la prohibición de transmisión en interés legítimo del responsable o el tratamiento ulterior de datos personales?",
+        "ground_truth": "La prohibición de transmisión en interés legítimo del responsable o el tratamiento ulterior de datos personales se aplica cuando el tratamiento no es compatible con una obligación de secreto legal, profesional o vinculante por otro concepto.",
+        "contexts": [
+            ". La indicación de posibles actos delictivos o amenazas para la seguridad pública por parte del responsable del tratamiento y la transmisión a la autoridad competente de los datos respecto de casos individuales o casos diversos relacionados con un mismo acto delictivo o amenaza para la seguridad pública debe considerarse que es en interés legítimo del responsable. Con todo, debe prohibirse esa transmisión en interés legítimo del responsable o el tratamiento ulterior de datos personales si el tratamiento no es compatible con una obligación de secreto legal, profesional o vinculante por otro concepto. (51) Especial protección merecen los datos personales que, por su naturaleza, son particularmente sensibles en relación con los derechos y las libertades fundamentales, ya que el contexto de su tratamiento podría entrañar importantes riesgos para los derechos y las libertades fundamentales"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'datos biométricos' en el contexto del Reglamento General de Protección de Datos?",
+        "ground_truth": "Se entienden como datos biométricos los que, tratados con medios técnicos específicos, permiten la identificación o autenticación unívocas de una persona física.",
+        "contexts": [
+            ". Debe incluirse entre tales datos personales los datos de carácter personal que revelen el origen racial o étnico, entendiéndose que el uso del término «origen racial» en el presente Reglamento no implica la aceptación por parte de la Unión de teorías que traten de determinar la existencia de razas humanas separadas. El tratamiento de fotografías no debe considerarse sistemáti­ camente tratamiento de categorías especiales de datos personales, pues únicamente se encuentran comprendidas en la definición de datos biométricos cuando el hecho de ser tratadas con medios técnicos específicos permita la identificación o la autenticación unívocas de una persona física"
+        ]
+    },
+    {
+        "question": "¿Qué situaciones específicas contempla el Reglamento para permitir el tratamiento de datos personales?",
+        "ground_truth": "El Reglamento contempla situaciones específicas que permiten el tratamiento de datos personales, como la obligación legal o la misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.",
+        "contexts": [
+            ". Tales datos personales no deben ser tratados, a menos que se permita su tratamiento en situaciones específicas contempladas en el presente Reglamento, habida cuenta de que los Estados miembros pueden establecer disposiciones específicas sobre protección de datos con objeto de adaptar la aplicación de las normas del presente Reglamento al cumplimiento de una obligación legal o al cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento. Además de los requisitos específicos de ese tratamiento, deben aplicarse los principios generales y otras normas del presente Reglamento, sobre todo en lo que se refiere a las condiciones de licitud del tratamiento"
+        ]
+    },
+    {
+        "question": "¿En qué casos se establecen excepciones a la prohibición general de tratamiento de categorías especiales de datos personales?",
+        "ground_truth": "Se establecen excepciones cuando el interesado dé su consentimiento explícito o tratándose de necesidades específicas, en particular cuando el tratamiento sea realizado en el marco de actividades legítimas por determinadas asociaciones o fundaciones cuyo objetivo sea permitir el ejercicio de las libertades fundamentales.",
+        "contexts": [
+            ". Se deben establecer de forma explícita excepciones a la prohibición general de tratamiento de esas categorías especiales de datos personales, entre otras cosas cuando el interesado dé su consentimiento explícito o tratándose de necesidades específicas, en particular cuando el tratamiento sea realizado en el marco de actividades legítimas por determinadas asociaciones o fundaciones cuyo objetivo sea permitir el ejercicio de las libertades fundamentales"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica la prohibición de tratar categorías especiales de datos personales según el RGPD?",
+        "ground_truth": "La prohibición de tratar categorías especiales de datos personales se aplica en todos los casos, excepto cuando lo establezca el Derecho de la Unión o de los Estados miembros y siempre que se den las garantías apropiadas para proteger datos personales y otros derechos fundamentales.",
+        "contexts": [
+            ". (52) Asimismo deben autorizarse excepciones a la prohibición de tratar categorías especiales de datos personales cuando lo establezca el Derecho de la Unión o de los Estados miembros y siempre que se den las garantías apropiadas, a fin de proteger datos personales y otros derechos fundamentales, cuando sea en interés público, en particular el tratamiento de datos personales en el ámbito de la legislación laboral, la legislación sobre protección social, incluidas las pensiones y con fines de seguridad, supervisión y alerta sanitaria, la prevención o control de enfermedades transmisibles y otras amenazas graves para la salud"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el tratamiento de categorías especiales de datos personales que merecen mayor protección en el contexto de la gestión de los servicios y sistemas sanitarios?",
+        "ground_truth": "El tratamiento de categorías especiales de datos personales que merecen mayor protección solo se aplica en el contexto de la gestión de los servicios y sistemas sanitarios o de protección social, incluyendo fines relacionados con la salud, cuando sea necesario para lograr dichos fines en beneficio de las personas físicas y de la sociedad en su conjunto.",
+        "contexts": [
+            ". (53) Las categorías especiales de datos personales que merecen mayor protección únicamente deben tratarse con fines relacionados con la salud cuando sea necesario para lograr dichos fines en beneficio de las personas físicas y de la sociedad en su conjunto, en particular en el contexto de la gestión de los servicios y sistemas sanitarios o de protección social, incluido el tratamiento de esos datos por las autoridades gestoras de la sanidad y las autoridades sanitarias nacionales centrales con fines de control de calidad, gestión de la información y supervisión general nacional y local del sistema sanitario o de protección social, y garantía de la continuidad de la asistencia sanitaria o la protección social y la asistencia sanitaria transfronteriza o fines de seguridad, supervisión y alerta sanitaria, o con fines de archivo en interés público, fines de investigación científica o histórica o fines estadísticos, basados en el Derecho de la Unión o del Estado miembro que ha de cumplir"
+        ]
+    },
+    {
+        "question": "En qué casos aplica el Reglamento General de Protección de Datos (RGPD) para fines estadísticos?",
+        "ground_truth": "El RGPD aplica para fines estadísticos cuando cumplan un objetivo de interés público, según se establece en el fragmento legal.",
+        "contexts": [
+            "público, fines de investigación científica o histórica o fines estadísticos, basados en el Derecho de la Unión o del Estado miembro que ha de cumplir un objetivo de interés público, así como para estudios realizados en interés público en el ámbito de la salud pública"
+        ]
+    },
+    {
+        "question": "¿Quién es el responsable de realizar el tratamiento de categorías especiales de datos personales relativos a la salud?",
+        "ground_truth": "Personas sujetas a la obligación legal de secreto",
+        "contexts": [
+            ". Por tanto, el presente Reglamento debe establecer condiciones armonizadas para el tratamiento de categorías especiales de datos personales relativos a la salud, en relación con necesidades específicas, en particular si el tratamiento de esos datos lo realizan, con fines relacionados con la salud, personas sujetas a la obligación legal de secreto 4.5.2016 L 119/10 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tienen los Estados miembros en relación con el tratamiento de datos genéticos, biométricos o relativos a la salud?",
+        "ground_truth": "Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluidas limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud.",
+        "contexts": [
+            "profesional. El Derecho de la Unión o de los Estados miembros debe establecer medidas específicas y adecuadas para proteger los derechos fundamentales y los datos personales de las personas físicas. Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluidas limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud. No obstante, esto no ha de suponer un obstáculo para la libre circulación de datos personales dentro de la Unión cuando tales condiciones se apliquen al tratamiento transfronterizo de esos datos. (54) El tratamiento de categorías especiales de datos personales, sin el consentimiento del interesado, puede ser necesario por razones de interés público en el ámbito de la salud pública. Ese tratamiento debe estar sujeto a medidas adecuadas y específicas a fin de proteger los derechos y libertades de las personas físicas"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'salud pública' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se refiere a todos los elementos relacionados con la salud, concretamente el estado de salud, con inclusión de la morbilidad y la discapacidad, los determinantes que influyen en dicho estado de salud, las necesidades de asistencia sanitaria, los recursos asignados a la asistencia sanitaria, la puesta a disposición de asistencia sanitaria y el acceso universal a ella, así como los gastos y la financiación de la asistencia sanitaria, y las causas de mortalidad.",
+        "contexts": [
+            ". Ese tratamiento debe estar sujeto a medidas adecuadas y específicas a fin de proteger los derechos y libertades de las personas físicas. En ese contexto, «salud pública» debe interpretarse en la definición del Reglamento (CE) n.o 1338/2008 del Parlamento Europeo y del Consejo (1), es decir, todos los elementos relacionados con la salud, concretamente el estado de salud, con inclusión de la morbilidad y la discapacidad, los determinantes que influyen en dicho estado de salud, las necesidades de asistencia sanitaria, los recursos asignados a la asistencia sanitaria, la puesta a disposición de asistencia sanitaria y el acceso universal a ella, así como los gastos y la financiación de la asistencia sanitaria, y las causas de mortalidad. Este tratamiento de datos relativos a la salud por razones de interés público no debe dar lugar a que terceros, como empresarios, compañías de seguros o entidades bancarias, traten los datos personales con otros fines"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por identificación digital en el contexto del RGPD?",
+        "ground_truth": "La identificación digital de un interesado, por ejemplo mediante un mecanismo de autenticación, como las mismas credenciales, empleadas por el interesado para abrir una sesión en el servicio en línea ofrecido por el responsable.",
+        "contexts": [
+            ". No obstante, el responsable del tratamiento no debe negarse a recibir información adicional facilitada por el interesado a fin de respaldarle en el ejercicio de sus derechos. La identificación debe incluir la identificación digital de un interesado, por ejemplo mediante un mecanismo de autenticación, como las mismas credenciales, empleadas por el interesado para abrir una sesión en el servicio en línea ofrecido por el responsable. (58) El principio de transparencia exige que toda información dirigida al público o al interesado sea concisa, fácilmente accesible y fácil de entender, y que se utilice un lenguaje claro y sencillo, y, además, en su caso, se visualice. Esta información podría facilitarse en forma electrónica, por ejemplo, cuando esté dirigida al público, mediante un sitio web"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento de datos personales en cuanto a la facilitación de información y comunicación a los niños?",
+        "ground_truth": "El responsable del tratamiento de datos personales debe arbitrarse fórmulas para facilitar al interesado, incluyendo a los niños, el ejercicio de sus derechos en virtud del presente Reglamento, lo que implica facilitar la información y comunicación en un lenguaje claro y sencillo que sea fácil de entender.",
+        "contexts": [
+            ". Esta información podría facilitarse en forma electrónica, por ejemplo, cuando esté dirigida al público, mediante un sitio web. Ello es especialmente pertinente en situaciones en las que la proliferación de agentes y la complejidad tecnológica de la práctica hagan que sea difícil para el interesado saber y comprender si se están recogiendo, por quién y con qué finalidad, datos personales que le conciernen, como es en el caso de la publicidad en línea. Dado que los niños merecen una protección específica, cualquier información y comunicación cuyo tratamiento les afecte debe facilitarse en un lenguaje claro y sencillo que sea fácil de entender. (59) Deben arbitrarse fórmulas para facilitar al interesado el ejercicio de sus derechos en virtud del presente Reglamento, incluidos los mecanismos para solicitar y, en su caso, obtener de forma gratuita, en particular, el acceso a los datos personales y su rectificación o supresión, así como el ejercicio del derecho de oposición"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento en cuanto a la presentación de solicitudes por parte de los interesados?",
+        "ground_truth": "El responsable del tratamiento debe proporcionar medios para que las solicitudes se presenten por medios electrónicos, en particular cuando los datos personales se tratan por medios electrónicos. Además, debe estar obligado a responder a las solicitudes del interesado sin dilación indebida ya más tardar en el plazo de un mes, ya explicar sus motivos en caso de que no fuera a atenderlas.",
+        "contexts": [
+            ". El responsable del tratamiento también debe proporcionar medios para que las solicitudes se presenten por medios electrónicos, en particular cuando los datos personales se tratan por medios electrónicos. El responsable del tratamiento debe estar obligado a responder a las solicitudes del interesado sin dilación indebida ya más tardar en el plazo de un mes, ya explicar sus motivos en caso de que no fuera a atenderlas. 4.5.2016 L 119/11 Diario Oficial de la Unión Europea ES (1) Reglamento (CE) n.o 1338/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre estadísticas comunitarias de salud pública y de salud y seguridad en el trabajo (DO L 354 de 31.12.2008, p. 70)."
+        ]
+    },
+    {
+        "question": "¿Qué información debe facilitar el responsable del tratamiento al interesado para garantizar un tratamiento leal y transparente?",
+        "ground_truth": "El responsable del tratamiento debe facilitar al interesado cuanta información complementaria sea necesaria para garantizar un tratamiento leal y transparente, habida cuenta de las circunstancias y del contexto específicos en que se traten los datos personales.",
+        "contexts": [
+            "(60) Los principios de tratamiento leal y transparente exigen que se informe al interesado de la existencia de la operación de tratamiento y sus fines. El responsable del tratamiento debe facilitar al interesado cuanta información complementaria sea necesaria para garantizar un tratamiento leal y transparente, habida cuenta de las circunstancias y del contexto específicos en que se traten los datos personales. Se debe además informar al interesado de la existencia de la elaboración de perfiles y de las consecuencias de dicha elaboración. Si los datos personales se obtienen de los interesados, también se les debe informar de si están obligados a facilitarlos y de las consecuencias en caso de que no lo hicieran. Dicha información puede transmitirse en combinación con unos iconos normalizados que ofrezcan, de forma fácilmente visible, inteligible y claramente legible, una adecuada visión de conjunto del tratamiento previsto"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por facilitar información sobre el tratamiento de datos personales a los interesados?",
+        "ground_truth": "Se entiende por facilitar información sobre el tratamiento de datos personales a los interesados en el momento en que se obtengan de ellos o, si se obtienen de otra fuente, en un plazo razonable, dependiendo de las circunstancias del caso.",
+        "contexts": [
+            ". Los iconos que se presentan en formato electrónico deben ser legibles mecánicamente. (61) Se debe facilitar a los interesados la información sobre el tratamiento de sus datos personales en el momento en que se obtengan de ellos o, si se obtienen de otra fuente, en un plazo razonable, dependiendo de las circuns­ tancias del caso. Si los datos personales pueden ser comunicados legítimamente a otro destinatario, se debe informar al interesado en el momento en que se comunican al destinatario por primera vez. El responsable del tratamiento que proyecte tratar los datos para un fin que no sea aquel para el que se recogieron debe proporcionar al interesado, antes de dicho tratamiento ulterior, información sobre ese otro fin y otra información necesaria. Cuando el origen de los datos personales no pueda facilitarse al interesado por haberse utilizado varias fuentes, debe facilitarse información general"
+        ]
+    },
+    {
+        "question": "¿En qué casos no es necesario imponer la obligación de proporcionar información al interesado?",
+        "ground_truth": "No es necesario imponer la obligación de proporcionar información cuando el interesado ya posea la información, cuando el registro o la comunicación de los datos personales estén expresamente establecidos por ley, o cuando facilitar la información al interesado resulte imposible o exija un esfuerzo desproporcionado.",
+        "contexts": [
+            ". (62) Sin embargo, no es necesario imponer la obligación de proporcionar información cuando el interesado ya posea la información, cuando el registro o la comunicación de los datos personales estén expresamente establecidos por ley, o cuando facilitar la información al interesado resulte imposible o exija un esfuerzo desproporcionado. Tal podría ser particularmente el caso cuando el tratamiento se realice con fines de archivo en interés público, fines de investigación científica o histórica o fines estadísticos. A este respecto, debe tomarse en consideración el número de interesados, la antigüedad de los datos y las garantías adecuadas adoptadas. (63) Los interesados deben tener derecho a acceder a los datos personales recogidos que le conciernan ya ejercer dicho derecho con facilidad ya intervalos razonables, con el fin de conocer y verificar la licitud del tratamiento"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento en cuanto a la accesibilidad de los datos personales relativos a la salud?",
+        "ground_truth": "El responsable del tratamiento debe estar facultado para facilitar acceso remoto a un sistema seguro que ofrezca al interesado un acceso directo a sus datos personales",
+        "contexts": [
+            ". Ello incluye el derecho de los interesados a acceder a datos relativos a la salud, por ejemplo los datos de sus historias clínicas que contengan información como diagnósticos, resultados de exámenes, evaluaciones de facultativos y cualesquiera tratamientos o intervenciones practicadas. Todo interesado debe, por tanto, tener el derecho a conocer ya que se le comuniquen, en particular, los fines para los que se tratan los datos personales, su plazo de tratamiento, sus destinatarios, la lógica implícita en todo tratamiento automático de datos personales y, por lo menos cuando se base en la elaboración de perfiles, las consecuencias de dicho tratamiento. Si es posible, el responsable del tratamiento debe estar facultado para facilitar acceso remoto a un sistema seguro que ofrezca al interesado un acceso directo a sus datos personales"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento para verificar la identidad de los interesados que soliciten acceso a sus datos personales?",
+        "ground_truth": "El responsable del tratamiento debe utilizar todas las medidas razonables para verificar la identidad de los interesados que soliciten acceso, en particular en el contexto de los servicios en línea y los identificadores en línea.",
+        "contexts": [
+            ". Este derecho no debe afectar negativamente a los derechos y libertades de terceros, incluidos los secretos comerciales o la propiedad intelectual y, en particular, los derechos de propiedad intelectual que protegen programas informáticos. No obstante, estas consideraciones no deben tener como resultado la negativa a prestar toda la información al interesado. Si trata una gran cantidad de información relativa al interesado, el responsable del tratamiento debe estar facultado para solicitar que, antes de facilitarse la información, el interesado especifique la información o actividades de tratamiento a que se refiere la solicitud. (64) El responsable del tratamiento debe utilizar todas las medidas razonables para verificar la identidad de los interesados que soliciten acceso, en particular en el contexto de los servicios en línea y los identificadores en línea. El responsable no debe conservar datos personales con el único propósito de poder responder a posibles solicitudes"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento que haya hecho públicos datos personales en relación con la supresión de estos datos?",
+        "ground_truth": "El responsable del tratamiento debe indicar a los responsables del tratamiento que estén tratando tales datos personales que supriman todo enlace a ellos, o las copias o réplicas de tales datos, y tomar medidas razonables para informar de la solicitud del interesado a los responsables que estén tratando los datos personales.",
+        "contexts": [
+            ". (66) A fin de reforzar el «derecho al olvido» en el entorno en línea, el derecho de supresión debe ampliarse de tal forma que el responsable del tratamiento que haya hecho públicos datos personales esté obligado a indicar a los responsables del tratamiento que estén tratando tales datos personales que supriman todo enlace a ellos, o las copias o réplicas de tales datos. Al proceder así, dicho responsable debe tomar medidas razonables, teniendo en cuenta la tecnología y los medios a su disposición, incluidas las medidas técnicas, para informar de la solicitud del interesado a los responsables que estén tratando los datos personales. (67) Entre los métodos para limitar el tratamiento de datos personales cabría incluir los consistentes en trasladar temporalmente los datos seleccionados a otro sistema de tratamiento, en impedir el acceso de usuarios a los datos personales seleccionados o en retirar temporalmente los datos publicados de un sitio internet"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene un responsable del tratamiento en cuanto a la limitación del tratamiento de datos personales en ficheros automatizados?",
+        "ground_truth": "El responsable del tratamiento debe limitar el tratamiento por medios técnicos, de forma que los datos personales no sean objeto de operaciones de tratamiento ulterior ni puedan modificarse. Además, debe permitir que los interesados reciban sus datos en un formato estructurado, de uso común, de lectura mecánica e interoperable y los transmitan a otro responsable del tratamiento.",
+        "contexts": [
+            ". En los ficheros automatizados la limitación del tratamiento debe realizarse, en principio, por medios técnicos, de forma que los datos personales no sean objeto de operaciones de tratamiento ulterior ni puedan modificarse. El hecho de que el tratamiento de los datos personales esté limitado debe indicarse claramente en el sistema. (68) Para reforzar aún más el control sobre sus propios datos, cuando el tratamiento de los datos personales se efectúe por medios automatizados, debe permitirse asimismo que los interesados que hubieran facilitado datos personales que les conciernan a un responsable del tratamiento los reciban en un formato estructurado, de uso común, de lectura mecánica e interoperable, y los transmitan a otro responsable del tratamiento. Debe alentarse a los responsables a crear formatos interoperables que permitan la portabilidad de datos"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'conjunto de datos personales determinado' en el contexto del RGPD?",
+        "ground_truth": "Un conjunto de datos personales determinado concierne a más de un interesado.",
+        "contexts": [
+            ". El derecho del interesado a transmitir o recibir datos personales que lo conciernan no debe obligar al responsable a adoptar o mantener sistemas de tratamiento que sean técnicamente compatibles. Cuando un conjunto de datos personales determinado concierna a más de un interesado, el derecho a recibir tales datos se debe entender sin menoscabo de los derechos y libertades de otros interesados de conformidad con el presente Reglamento. Por otra parte, ese derecho no debe menoscabar el derecho del interesado a obtener la supresión de los datos personales y las limitaciones de ese derecho recogidas en el presente Reglamento, y en particular no debe implicar la supresión de los datos personales concernientes al interesado que este haya facilitado para la ejecución de un contrato, en la medida y durante el tiempo en que los datos personales sean necesarios para la ejecución de dicho contrato"
+        ]
+    },
+    {
+        "question": "¿Qué derecho tiene el interesado en relación con la transmisión de datos personales?",
+        "ground_truth": "El interesado debe tener derecho a que los datos personales se transmitan directamente de un responsable del tratamiento a otro, cuando sea técnicamente posible.",
+        "contexts": [
+            ". El interesado debe tener derecho a que los datos personales se transmitan directamente de un responsable del tratamiento a otro, cuando sea técnicamente posible. (69) En los casos en que los datos personales puedan ser tratados lícitamente porque el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento o por motivos de intereses legítimos del responsable o de un tercero, el interesado debe, sin embargo, tener derecho a oponerse al tratamiento de cualquier dato personal relativo a su situación particular. Debe ser el responsable el que demuestre que sus intereses legítimos imperiosos prevalecen sobre los intereses o los derechos y libertades fundamentales del interesado"
+        ]
+    },
+    {
+        "question": "¿Qué derecho tiene el interesado cuando los datos personales son tratados con fines de mercadotecnia directa?",
+        "ground_truth": "El interesado tiene derecho a oponerse al tratamiento, inclusive a la elaboración de perfiles en la medida en que esté relacionada con dicha mercadotecnia directa, ya sea con respecto a un tratamiento inicial o ulterior, y ello en cualquier momento y sin coste alguno.",
+        "contexts": [
+            ". (70) Si los datos personales son tratados con fines de mercadotecnia directa, el interesado debe tener derecho a oponerse a dicho tratamiento, inclusive a la elaboración de perfiles en la medida en que esté relacionada con dicha mercadotecnia directa, ya sea con respecto a un tratamiento inicial o ulterior, y ello en cualquier momento y sin coste alguno. Dicho derecho debe comunicarse explícitamente al interesado y presentarse claramente y al margen de cualquier otra información. 4.5.2016 L 119/13 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de tratamiento incluye la elaboración de perfiles consistente en cualquier forma de tratamiento de los datos personales que evalúe aspectos personales relativos a una persona física?",
+        "ground_truth": "La elaboración de perfiles consistente en cualquier forma de tratamiento de los datos personales que evalúe aspectos personales relativos a una persona física, en particular para analizar o predecir aspectos relacionados con el rendimiento en el trabajo, la situación económica, la salud, las preferencias o intereses personales, la fiabilidad o el comportamiento, la situación o los movimientos del interesado.",
+        "contexts": [
+            "(71) El interesado debe tener derecho a no ser objeto de una decisión, que puede incluir una medida, que evalúe aspectos personales relativos a él, y que se base únicamente en el tratamiento automatizado y produzca efectos jurídicos en él o le afecte significativamente de modo similar, como la denegación automática de una solicitud de crédito en línea o los servicios de contratación en red en los que no medie intervención humana alguna. Este tipo de tratamiento incluye la elaboración de perfiles consistente en cualquier forma de tratamiento de los datos personales que evalúe aspectos personales relativos a una persona física, en particular para analizar o predecir aspectos relacionados con el rendimiento en el trabajo, la situación económica, la salud, las preferencias o intereses personales, la fiabilidad o el comportamiento, la situación o los movimientos del interesado, en la medida en que produzca efectos jurídicos en él o le afecte significativamente de modo similar"
+        ]
+    },
+    {
+        "question": "¿Qué garantías debe incluir el tratamiento de datos personales?",
+        "ground_truth": "La información específica al interesado y el derecho a obtener intervención humana, a expresar su punto de vista, a recibir una explicación de la decisión tomada después de tal evaluación ya impugnar la decisión.",
+        "contexts": [
+            ". En cualquier caso, dicho tratamiento debe estar sujeto a las garantías apropiadas, entre las que se deben incluir la información específica al interesado y el derecho a obtener intervención humana, a expresar su punto de vista, a recibir una explicación de la decisión tomada después de tal evaluación ya impugnar la decisión. Tal medida no debe afectar a un menor"
+        ]
+    },
+    {
+        "question": "¿Qué medidas técnicas y organizativas debe aplicar el responsable del tratamiento para garantizar que se corrigen los factores que introducen inexactitudes en los datos personales?",
+        "ground_truth": "Medidas técnicas y organizativas apropiadas para garantizar, en particular, que se corrigen los factores que introducen inexactitudes en los datos personales",
+        "contexts": [
+            ". Tal medida no debe afectar a un menor. A fin de garantizar un tratamiento leal y transparente respecto del interesado, teniendo en cuenta las circuns­ tancias y contexto específicos en los que se tratan los datos personales, el responsable del tratamiento debe utilizar procedimientos matemáticos o estadísticos adecuados para la elaboración de perfiles, aplicar medidas técnicas y organizativas apropiadas para garantizar, en particular, que se corrigen los factores que introducen inexactitudes en los datos personales y se reduce al máximo el riesgo de error, asegurar los datos personales de forma que se tengan en cuenta los posibles riesgos para los intereses y derechos del interesado y se impidan, entre otras cosas, efectos discriminatorios en las personas físicas por motivos de raza u origen étnico, opiniones políticas, religión o creencias, afiliación sindical, condición genética o estado de salud u orientación sexual, o que den lugar a medidas que produzcan tal efecto"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por la elaboración de perfiles en el contexto del RGPD?",
+        "ground_truth": "La elaboración de perfiles se refiere al tratamiento automatizado de categorías particulares de datos personales únicamente en condiciones específicas, y está sujeta a las normas del presente Reglamento que rigen el tratamiento de datos personales.",
+        "contexts": [
+            ". Las decisiones automatizadas y la elaboración de perfiles sobre la base de categorías particulares de datos personales únicamente deben permitirse en condiciones específicas. (72) La elaboración de perfiles está sujeta a las normas del presente Reglamento que rigen el tratamiento de datos personales, como los fundamentos jurídicos del tratamiento o los principios de la protección de datos. El Comité Europeo de Protección de Datos establecido por el presente Reglamento (en lo sucesivo, el «Comité») debe tener la posibilidad de formular orientaciones en este contexto"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el Reglamento General de Protección de Datos (RGPD) restricciones a determinados principios o derechos?",
+        "ground_truth": "El RGPD puede imponer restricciones en la medida en que sea necesario y proporcionado en una sociedad democrática para salvaguardar la seguridad pública, incluida la protección de la vida humana, especialmente en respuesta a catástrofes naturales o de origen humano, la prevención, investigación y el enjuiciamiento de infracciones penales o la ejecución de sanciones penales, incluida la protección frente a las amenazas contra la seguridad pública o de violaciones de normas deontológicas en las profesiones reguladas, y su prevención.",
+        "contexts": [
+            ". (73) El Derecho de la Unión o de los Estados miembros puede imponer restricciones a determinados principios ya los derechos de información, acceso, rectificación o supresión de datos personales, al derecho a la portabilidad de los datos, al derecho de oposición, a las decisiones basadas en la elaboración de perfiles, así como a la comunicación de una violación de la seguridad de los datos personales a un interesado ya determinadas obligaciones conexas de los responsables del tratamiento, en la medida en que sea necesario y proporcionado en una sociedad democrática para salvaguardar la seguridad pública, incluida la protección de la vida humana, especialmente en respuesta a catástrofes naturales o de origen humano, la prevención, investigación y el enjuiciamiento de infracciones penales o la ejecución de sanciones penales, incluida la protección frente a las amenazas contra la seguridad pública o de violaciones de normas deontológicas en las profesiones reguladas, y su prevención,"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el tratamiento de datos personales para ofrecer información específica relacionada con el comportamiento político durante los regímenes de antiguos Estados totalitarios?",
+        "ground_truth": "El tratamiento de datos personales se aplica para ofrecer información específica relacionada con el comportamiento político durante los regímenes de antiguos Estados totalitarios en casos de llevanza de registros públicos por razones de interés público general.",
+        "contexts": [
+            "protección frente a las amenazas contra la seguridad pública o de violaciones de normas deontológicas en las profesiones reguladas, y su prevención, otros objetivos importantes de interés público general de la Unión o de un Estado miembro, en particular un importante interés económico o financiero de la Unión o de un Estado miembro, la llevanza de registros públicos por razones de interés público general, el tratamiento ulterior de datos personales archivados para ofrecer información específica relacionada con el comportamiento político durante los regímenes de antiguos Estados totalitarios, o la protección del interesado o de los derechos y libertades de otros, incluida la protección social, la salud pública y los fines humanitarios"
+        ]
+    },
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento de datos personales según el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "El responsable del tratamiento debe estar obligado a aplicar medidas oportunas y eficaces, demostrar la conformidad de las actividades de tratamiento con el presente Reglamento, incluida la eficacia de las medidas. Dichas medidas deben tener en cuenta la naturaleza, el ámbito, el contexto y los fines del tratamiento así como el riesgo para los derechos y libertades de las personas físicas.",
+        "contexts": [
+            ". Dichas restricciones deben ajustarse a lo dispuesto en la Carta y en el Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales. (74) Debe quedar establecida la responsabilidad del responsable del tratamiento por cualquier tratamiento de datos personales realizado por él mismo o por su cuenta. En particular, el responsable debe estar obligado a aplicar medidas oportunas y eficaces y ha de poder demostrar la conformidad de las actividades de tratamiento con el presente Reglamento, incluida la eficacia de las medidas. Dichas medidas deben tener en cuenta la naturaleza, el ámbito, el contexto y los fines del tratamiento así como el riesgo para los derechos y libertades de las personas físicas. 4.5.2016 L 119/14 Diario Oficial de la Unión Europea ES"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el Reglamento General de Protección de Datos (RGPD) la protección de datos personales para evitar daños y perjuicios físicos, materiales o inmateriales?",
+        "ground_truth": "El RGPD aplica la protección de datos personales en los casos en los que el tratamiento pueda dar lugar a problemas de discriminación, usurpación de identidad o fraude, pérdidas financieras, daño para la reputación, pérdida de confidencialidad de datos sujetos al secreto profesional, reversión no autorizada de la seudonimización o cualquier otro perjuicio económico o social significativo.",
+        "contexts": [
+            "(75) Los riesgos para los derechos y libertades de las personas físicas, de gravedad y probabilidad variables, pueden deberse al tratamiento de datos que pudieran provocar daños y perjuicios físicos, materiales o inmateriales, en particular en los casos en los que el tratamiento pueda dar lugar a problemas de discriminación, usurpación de identidad o fraude, pérdidas financieras, daño para la reputación, pérdida de confidencialidad de datos sujetos al secreto profesional, reversión no autorizada de la seudonimización o cualquier otro perjuicio económico o social significativo; en los casos en los que se prive a los interesados de sus derechos y libertades o se les impida ejercer el control sobre sus datos personales; en los casos en los que los datos personales tratados revelen el origen étnico o racial, las opiniones políticas, la religión o creencias filosóficas, la militancia en sindicatos y el tratamiento de datos genéticos, datos relativos a la salud o datos sobre la vida sexual,"
+        ]
+    },
+    {
+        "question": "¿En qué casos aplica el Reglamento General de Protección de Datos (RGPD) la protección especial de datos personales?",
+        "ground_truth": "El RGPD aplica la protección especial de datos personales en los siguientes casos: cuando se traten datos relativos a la salud, datos genéticos, tratamiento de datos sobre la vida sexual, condenas e infracciones penales o medidas de seguridad conexas; cuando se evalúen aspectos personales para crear o utilizar perfiles personales; cuando se traten datos personales de personas vulnerables, en particular niños; y cuando el tratamiento implique una gran cantidad de datos personales y afecte a un gran número de interesados.",
+        "contexts": [
+            "o creencias filosóficas, la militancia en sindicatos y el tratamiento de datos genéticos, datos relativos a la salud o datos sobre la vida sexual, o las condenas e infracciones penales o medidas de seguridad conexas; en los casos en los que se evalúen aspectos personales, en particular el análisis o la predicción de aspectos referidos al rendimiento en el trabajo, situación económica, salud, preferencias o intereses personales, fiabilidad o comportamiento, situación o movimientos, con el fin de crear o utilizar perfiles personales; en los casos en los que se traten datos personales de personas vulnerables, en particular niños; o en los casos en los que el tratamiento implique una gran cantidad de datos personales y afecte a un gran número de interesados"
+        ]
+    }
+]

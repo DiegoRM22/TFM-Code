@@ -1,0 +1,41 @@
+# === Entornos Virtuales (¡IMPRESCINDIBLE!) ===
+# No queremos subir las miles de librerías de Python instaladas
+venv/
+.venv/
+env/
+ENV/
+
+# === Archivos Gigantes y Datasets (Modelos/Pesos) ===
+# Evita subir los modelos descargados o los datasets pesados
+*.bin
+*.pth
+*.pt
+*.safetensors
+*.pkl
+# Si tus JSON o CSV de datos son muy grandes, puedes excluirlos:
+# *.json
+# *.csv
+# Pero permite los scripts de configuración:
+!resultados_para_ragas.json
+!metricas_finetuning_resultados.csv
+
+# === Archivos Ocultos del Sistema ===
+.DS_Store
+Thumbs.db
+.desktop
+.vscode/
+.idea/
+
+# === Caché de Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# === Credenciales y Secretos ===
+# Por si acaso en el futuro usas APIs (como OpenAI) y creas un archivo .env
+.env
+secretos.*
+*.pem
+*.key

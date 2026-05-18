@@ -1,0 +1,72 @@
+[
+    {
+        "question": "¿Qué obligaciones tiene el Parlamento Europeo y el Consejo de la Unión Europea en relación con la protección de datos personales?",
+        "ground_truth": "El Parlamento Europeo y el Consejo de la Unión Europea tienen la obligación de aprobar el Reglamento General de Protección de Datos (RGPD) para proteger las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.",
+        "contexts": [
+            "I (A ctos legislativos ) REGL AMENTOS REGL AMENTO (UE) 2016/679 DEL P ARL AMENTO EUR OPEO Y DEL CONSEJO de 27 de abr il de 2016 relativ o a la protección de las personas físicas en lo que respect a al trata mient o de datos personales y a la libre circulación de estos dato s y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (T exto per tinente a ef ectos del EEE) EL P ARL AMENTO EUR OPEO Y EL CONSEJO DE L A UNIÓN EUR OPEA, Vist o el T ratado de Funcionamiento de la Uni ón Europea, y en par ticular su ar tículo 16, Vista la propuesta de la Comisión Europea, Previa transmisión del pro y ecto de text o legislativo a los P arlamentos nacionales, Vist o el dictamen del Comité Económico y Social Europeo ( 1 ), Vist o el dictamen del Comité de las Regiones ( 2 ), De conf or midad con el procedimiento legislativ o ordinar io ( 3 ), Considerando lo siguient e:"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por protección de los datos personales en relación con el tratamiento de datos?",
+        "ground_truth": "La protección de las personas físicas en relación con el tratamiento de datos personales es un derecho fundamental, establecido en el artículo 8, apartado 1, de la Carta de los Derechos Fundamentales de la Unión Europea y en el artículo 16, apartado 1, del Tratado de Funcionamiento de la Unión Europea.",
+        "contexts": [
+            "2 ), De conf or midad con el procedimiento legislativ o ordinar io ( 3 ), Considerando lo siguient e: (1) La prot ección de las personas físicas en relación con el tratamiento de dat os personales es un derecho fundamental. El ar tículo 8, apar tado 1, de la Car ta de los Derechos Fundamentales de la U nión Europea («la Car ta») y el ar tículo 16, apar tado 1, del T ratado de Funcionamiento de la Unión Europea (TFUE) establecen que toda persona tiene derech o a la prote cción de los datos de caráct er personal que le concier nan. (2) Los pr incipios y nor mas relativos a la prote cción de las personas físicas en lo que respecta al tratamiento de sus dat os de carácter personal deben, cualquiera que sea su nacionalidad o residencia, respetar sus liber tades y derechos fundamentales, en par ticular el derecho a la protección de los dat os de carácter personal. El present e"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'espacio de libertad, seguridad y justicia' en el Reglamento General de Protección de Datos?",
+        "ground_truth": "El espacio de libertad, seguridad y justicia se refiere a la plena realización de un espacio que combine la libertad, la seguridad y la justicia, lo que contribuye al progreso económico y social, así como al bienestar de las personas físicas.",
+        "contexts": [
+            "derechos fundamentales, en par ticular el derecho a la protección de los dat os de carácter personal. El present e Reg lamento pret ende contr ibuir a la plena realización de un espacio de liber tad, segur idad y justicia y de una unión económica, al progreso económico y social, al refuerzo y la converg encia de las economías dentro del mercado interi or , así como al bienestar de las personas físicas. (3) La Directiva 95/46/CE del P arlamento Europeo y del Consejo ( 4 ) trata de ar monizar la prot ección de los derechos y las liber tades fundamentales de las personas físicas en relación con las actividades de tratamiento de datos de caráct er personal y g arantizar la libre circulación de estos dat os entre los Estados miembros. 4.5.2016 L 119/1 Diar io Oficial de la U nión Europea ES ( 1 ) DO C 229 de 31.7.2012, p. 90. ( 2 ) DO C 391 de 18.12.2012, p. 127. ( 3"
+        ]
+    },
+    {
+        "question": "¿Qué directiva de la Unión Europea se menciona en el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995",
+        "contexts": [
+            "4.5.2016 L 119/1 Diar io Oficial de la U nión Europea ES ( 1 ) DO C 229 de 31.7.2012, p. 90. ( 2 ) DO C 391 de 18.12.2012, p. 127. ( 3 ) P osición del Pa rlamento Europeo de 12 de marzo de 2014 (pendiente de publicación en el Diar io Oficial) y posición del Consejo en pr imera lectura de 8 de abr il de 2016 (pendiente de publicación en el Diar io Oficial). P osición del Parlament o Europeo de 14 de abr il de 2016. ( 4 ) Directiva 95/46/CE del P arlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la prot ección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (DO L 281 de 23.11.1995, p. 31)."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'tratamiento de datos personales concebido para ser virtuoso' en el Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se entiende que el tratamiento de datos personales debe estar diseñado y realizado de manera que respete la protección de los datos personales, considerando su función en la sociedad y manteniendo el equilibrio con otros derechos fundamentales.",
+        "contexts": [
+            "(4) El tratamient o de datos personales debe estar concebido para ser vir a la humanidad. El derecho a la prote cción de los datos personales no es un derecho absoluto sino que debe considerarse en relación con su función en la sociedad y manten er el equilibr io con otros derechos fundamentales, con ar reg lo al pr incipio de proporcionalidad. El present e Reg lamento respeta todos los derechos fundamentales y obser va las liber tades y los pr incipios reconocidos en la Car ta conf or me se consagran en los T ratados, en par ticular el respeto de la vida pr ivada y f amiliar , del domicilio y de las comunicaciones, la protección de los datos de carácte r personal, la liber tad de pensamient o, de conciencia y de religión, la liber tad de expresión y de inf or mación, la liber tad de empresa, el derecho a la tutela judicial ef ectiva y a un juicio just o, y la diversidad cultural, religiosa y lingüística."
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'fujos transfronterizos de datos personales' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "Se refiere a un aumento sustancial de los flujos de datos personales entre operadores públicos y privados, incluyendo personas físicas, asociaciones y empresas, dentro de la Unión Europea.",
+        "contexts": [
+            "derecho a la tutela judicial ef ectiva y a un juicio just o, y la diversidad cultural, religiosa y lingüística. (5) La integra ción económica y social resultante del funcionamient o del mercado interi or ha llevado a un aumento sustancial de los f lujos transfronteri zos de datos personales. En toda la U nión se ha incrementado el inter cambio de datos personales entre los operadores públicos y pr ivados, incluidas las personas físicas, las asociaciones y las emp resas. El Derec ho de la Unión insta a las autor idades nacionales de los Estados miembros a que cooperen e inter cambien datos personales a fi n de poder cumplir sus funciones o desempeñar otras por cuenta de una autori dad de otro Estado miembro. (6) La rápida evolución te cnológica y la g lobalización han plante ado nuevos ret os para la prot ección de los datos personales. La magnitud de la recogida y del inte rcambio de datos personales ha aumentado de manera signifi ­"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por la magnitud de la recogida y del intercambio de datos personales en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "La magnitud de la recogida y del intercambio de datos personales se refiere a que tanto las empresas privadas como las autoridades públicas utilizan datos personales en una escala sin precedentes para realizar sus actividades.",
+        "contexts": [
+            "personales. La magnitud de la recogida y del inte rcambio de datos personales ha aumentado de manera signifi ­ cativa. La te cnología per mite que tanto las empresas pr ivadas como las autor idades públicas utilicen datos personales en una escala sin precedente s a la hora de realizar sus actividades. Las personas físicas difunden un v olumen cada vez ma y or de inf or mación personal a escala mundial. La tecnología ha transf or mado tanto la economía como la vida social, y ha de facilitar aún más la libre circulación de datos personales dentro de la U nión y la transfer encia a ter ceros países y org anizaciones intern acionales, garant izando al mismo tiempo un elevado nivel de protección de los dat os personales. (7) Estos ava nces requieren un marco más sólido y coherente para la protección de datos en la Unión Europea, respaldado por una ejecución estr icta, dada la im por tancia de ge nerar la conf ianza que per mita a la economía"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'respaldo' en el contexto del Reglamento General de Protección de Datos (RGPD)?",
+        "ground_truth": "El respaldo se refiere a la ejecución estricta, que es importante para generar confianza y permitir el desarrollo de la economía digital en todo el mercado interior.",
+        "contexts": [
+            "respaldado por una ejecución estr icta, dada la im por tancia de ge nerar la conf ianza que per mita a la economía digital desar rollarse en tod o el mercado interior . Las personas físicas deben te ner el control de sus propios datos personales. Ha y que ref orzar la segur idad jurídica y práctica para las personas físicas, los operadores económicos y las autoridades públicas. (8) En los casos en que el present e Reg lamento establece que sus nor mas sean especifi cadas o restr ingidas por el Derech o de los Estados miembros, estos, en la medida en que sea necesar io por razones de coherencia y para que las disposiciones nacionales sean compr ensibles para sus destinatar ios, pueden incor porar a su Derecho nacional element os del presente Reg lamento. (9) A unque los objetivos y pr incipios de la Directiva 95/46/CE siguen siendo válidos, ello no ha im pedido que la"
+        ]
+    },
+    {
+        "question": "¿Qué obstáculo puede constituir la falta de protección uniforme de los datos personales en la Unión Europea?",
+        "ground_truth": "La falta de protección uniforme de los datos personales en la Unión Europea puede constituir un obstáculo al ejercicio de las actividades económicas a nivel de la Unión, falsear la competencia y impedir que",
+        "contexts": [
+            "(9) A unque los objetivos y pr incipios de la Directiva 95/46/CE siguen siendo válidos, ello no ha im pedido que la prot ección de los dat os en el terr itorio de la U nión se aplique de manera fragmentada, ni la insegur idad jurídica ni una percepción g eneralizada entre la opinión pública de que existen r iesgos im por tantes para la prote cción de las personas físicas, en par ticular en relación con las actividades en línea. Las dif erencias en el nivel de prote cción de los derechos y liber tades de las personas físicas, en par ticular del derecho a la protección de los datos de caráct er personal, en lo que respecta al tratamiento de dichos datos en los Estados miembros pueden impedi r la libre circulación de los datos de carácter personal en la Unión. Estas dif erencias pueden constituir , por lo tanto , un obstáculo al ejercicio de las actividades económicas a nivel de la U nión, f alsear la compet encia e im pedir que"
+        ]
+    },
+    {
+        "question": "¿Qué se entiende por 'nivel unifor me y elevado de protección' en el contexto del Reglamento General de Protección de Datos?",
+        "ground_truth": "Se refiere a garantizar un nivel uniforme y elevado de protección de las personas físicas en toda la Unión, eliminando los obstáculos a la circulación de datos personales dentro de la Unión.",
+        "contexts": [
+            "un obstáculo al ejercicio de las actividades económicas a nivel de la U nión, f alsear la compet encia e im pedir que las autor idades cumplan las funciones que les incumben en vir tud del Derecho de la Unión. Esta dif erencia en los niveles de protección se debe a la existe ncia de divergencias en la ejecución y aplicación de la Directiva 95/46/CE. (10) P ara ga rantizar un nivel unif or me y elevado de prot ección de las personas físicas y eliminar los obstáculos a la circulación de datos personales dentro de la Unión, el nivel de prote cción de los derech os y liber tades de las personas físicas por lo que se refie re al tratamient o de dic hos dat os debe ser equivalent e en tod os los Estados miembros. Debe garant izarse en tod a la U nión que la aplicación de las nor mas de prot ección de los derechos y liber tades fundamentales de las personas físicas en relación con el tratamiento de datos de carácte r personal sea"
+        ]
+    }
+]
