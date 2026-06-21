@@ -1,0 +1,47 @@
+[
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento para garantizar que los datos personales no se conserven más tiempo del necesario?",
+        "answer": "El responsable del tratamiento debe establecer plazos para la supresión o revisión periódica de los datos personales para garantizar que éstos no se conserven más tiempo del necesario. Además, debe tomar todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos.",
+        "contexts": [
+            ". Los datos personales deben ser adecuados, pertinentes y limitados a lo necesario para los fines para los que sean tratados. Ello requiere, en particular, garantizar que se limite a un mínimo estricto su plazo de conservación. Los datos personales solo deben tratarse si la finalidad del tratamiento no pudiera lograrse razonablemente por otros medios. Para garantizar que los datos personales no se conservan más tiempo del necesario, el responsable del tratamiento ha de establecer plazos para su supresión o revisión periódica. Deben tomarse todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos. Los datos personales deben tratarse de un modo que garantice una seguridad y confidencialidad adecuadas de los datos personales, inclusive para impedir el acceso o uso no autorizados de dichos datos y del equipo utilizado en el tratamiento"
+        ],
+        "ground_truth": "El responsable del tratamiento debe establecer plazos para la supresión o revisión periódica de los datos personales y tomar todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos.",
+        "latency_s": 11.579
+    },
+    {
+        "question": "¿Qué se entiende por 'protección efectiva de los datos personales' en el Reglamento General de Protección de Datos (RGPD)?",
+        "answer": "La protección efectiva de los datos personales en la Unión implica reforzar y especificar los derechos de los interesados y las obligaciones de aquellos que tratan y determinan el tratamiento de los datos de carácter personal.",
+        "contexts": [
+            "(11) La protección efectiva de los datos personales en la Unión exige que se refuercen y especifiquen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal, y que en los Estados miembros se reconozcan poderes equivalentes para supervisar y garantizar el cumplimiento de las normas relativas a la protección de los datos de carácter personal y las infracciones se castiguen con sanciones equivalentes. (12) El artículo 16, apartado 2, del TFUE encomienda al Parlamento Europeo y al Consejo que establezcan las normas sobre protección de las personas físicas respecto del tratamiento de datos de carácter personal y las normas relativas a la libre circulación de dichos datos"
+        ],
+        "ground_truth": "La protección efectiva de los datos personales en la Unión exige que se refuercen y especifiquen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal.",
+        "latency_s": 8.919
+    },
+    {
+        "question": "¿Qué tipo de situaciones específicas de tratamiento están permitidas por el Reglamento General de Protección de Datos (RGPD)?",
+        "answer": "El RGPD no excluye el Derecho de los Estados miembros para determinar las circunstancias relativas a situaciones específicas de tratamiento, lo que implica que permite al legislador nacional establecer casos concretos en los que el tratamiento de datos personales sea lícito.",
+        "contexts": [
+            ". En este sentido, el presente Reglamento no excluye el Derecho de los Estados miembros que determina las circunstancias relativas a situaciones específicas de tratamiento, incluida la indicación pormenorizada de las condiciones en las que el tratamiento de datos personales es lícito. 4.5.2016 L 119/2 Diario Oficial de la Unión Europea ES"
+        ],
+        "ground_truth": "El Reglamento General de Protección de Datos (RGPD) permite que los Estados miembros determinen las circunstancias relativas a situaciones específicas de tratamiento, incluida la indicación pormenorizada de las condiciones en las que el tratamiento de datos personales es lícito.",
+        "latency_s": 10.812
+    },
+    {
+        "question": "¿Qué obligaciones tienen los Estados miembros en relación con el tratamiento de datos genéticos, biométricos o relativos a la salud?",
+        "answer": "Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluyendo limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud.",
+        "contexts": [
+            "profesional. El Derecho de la Unión o de los Estados miembros debe establecer medidas específicas y adecuadas para proteger los derechos fundamentales y los datos personales de las personas físicas. Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluidas limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud. No obstante, esto no ha de suponer un obstáculo para la libre circulación de datos personales dentro de la Unión cuando tales condiciones se apliquen al tratamiento transfronterizo de esos datos. (54) El tratamiento de categorías especiales de datos personales, sin el consentimiento del interesado, puede ser necesario por razones de interés público en el ámbito de la salud pública. Ese tratamiento debe estar sujeto a medidas adecuadas y específicas a fin de proteger los derechos y libertades de las personas físicas"
+        ],
+        "ground_truth": "Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluidas limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud.",
+        "latency_s": 7.188
+    },
+    {
+        "question": "¿En qué casos aplica la autoridad de control del encargado como autoridad de control interesada en el RGPD?",
+        "answer": "La autoridad de control del encargado se considera autoridad de control interesada en aquellos casos que impliquen tanto al responsable como al encargado.",
+        "contexts": [
+            ". En los casos que impliquen tanto al responsable como al encargado, la autoridad de control principal competente debe seguir siendo la autoridad de control del Estado miembro en el que el responsable tenga su establecimiento principal, pero la autoridad de control del encargado debe considerarse autoridad de control interesada y participar en el procedimiento de cooperación establecido en el presente Reglamento. En cualquier caso, las autoridades de control del Estado miembro o los Estados miembros en los que el encargado tenga uno o varios establecimientos no deben considerarse autoridades de control interesadas cuando el proyecto de decisión afecte únicamente al responsable. Cuando el tratamiento lo realice un grupo empresarial, el establecimiento principal de la empresa que ejerce el control debe considerarse el establecimiento principal del grupo empresarial, excepto cuando los fines y medios del tratamiento los determine otra empresa"
+        ],
+        "ground_truth": "La autoridad de control del encargado se considera autoridad de control interesada cuando implique tanto al responsable como al encargado, y debe participar en el procedimiento de cooperación establecido en el presente Reglamento.",
+        "latency_s": 6.709
+    }
+]

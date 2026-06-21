@@ -6,10 +6,14 @@ import json
 import sys
 import pandas as pd
 from pathlib import Path
+from unittest.mock import MagicMock
+for _mod in ["langchain_community.chat_models.vertexai", "langchain_community.llms.vertexai"]:
+    if _mod not in sys.modules:
+        sys.modules[_mod] = MagicMock()
 from datasets import Dataset
 from ragas import evaluate
 from ragas.run_config import RunConfig
-from ragas.metrics import Faithfulness, AnswerRelevancy, ContextPrecision, ContextRecall
+from ragas.metrics import Faithfulness, AnswerRelevancy, ContextPrecision, ContextRecall, AnswerCorrectness
 from langchain_ollama import ChatOllama
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
@@ -34,6 +38,12 @@ for item in data:
     if isinstance(item["contexts"], str):
         item["contexts"] = [item["contexts"]]
 
+for item in data:
+    if "question"     in item: item["user_input"]          = item.pop("question")
+    if "answer"       in item: item["response"]             = item.pop("answer")
+    if "contexts"     in item: item["retrieved_contexts"]   = item.pop("contexts")
+    if "ground_truth" in item: item["reference"]            = item.pop("ground_truth")
+
 df = pd.DataFrame(data)
 dataset = Dataset.from_pandas(df)
 
@@ -51,9 +61,10 @@ metricas = [
     AnswerRelevancy(llm=evaluador_wrapper, embeddings=embeddings_wrapper),
     ContextPrecision(llm=evaluador_wrapper),
     ContextRecall(llm=evaluador_wrapper),
+    AnswerCorrectness(llm=evaluador_wrapper, embeddings=embeddings_wrapper),
 ]
 
-print("4. Iniciando evaluación RAGAS híbrido (92q × 4 métricas)...")
+print("4. Iniciando evaluación RAGAS híbrido (14q × 5 métricas)...")
 result = evaluate(dataset=dataset, metrics=metricas, run_config=configuracion_lenta)
 
 print("\n" + "=" * 40)

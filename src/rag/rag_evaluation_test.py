@@ -6,6 +6,10 @@ import sys
 import pandas as pd
 from pathlib import Path
 from datasets import Dataset
+from unittest.mock import MagicMock
+for _mod in ["langchain_community.chat_models.vertexai", "langchain_community.llms.vertexai"]:
+    if _mod not in sys.modules:
+        sys.modules[_mod] = MagicMock()
 from ragas import evaluate
 from ragas.run_config import RunConfig
 from ragas.metrics import Faithfulness, AnswerRelevancy, ContextPrecision, ContextRecall
@@ -25,6 +29,12 @@ output_file = DATA_DIR / "rag" / "rag_evaluation_test_results.csv"
 
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
+
+for item in data:
+    if "question"     in item: item["user_input"]          = item.pop("question")
+    if "answer"       in item: item["response"]             = item.pop("answer")
+    if "contexts"     in item: item["retrieved_contexts"]   = item.pop("contexts")
+    if "ground_truth" in item: item["reference"]            = item.pop("ground_truth")
 
 df = pd.DataFrame(data)
 dataset = Dataset.from_pandas(df)

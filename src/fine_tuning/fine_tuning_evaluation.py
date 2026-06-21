@@ -4,6 +4,10 @@ import pandas as pd
 import warnings
 from pathlib import Path
 from datasets import Dataset
+from unittest.mock import MagicMock
+for _mod in ["langchain_community.chat_models.vertexai", "langchain_community.llms.vertexai"]:
+    if _mod not in sys.modules:
+        sys.modules[_mod] = MagicMock()
 from ragas import evaluate
 from ragas.run_config import RunConfig
 from langchain_ollama import ChatOllama
@@ -35,6 +39,12 @@ for item in data:
         )
     if isinstance(item["contexts"], str):
         item["contexts"] = [item["contexts"]]
+
+for item in data:
+    if "question"     in item: item["user_input"]          = item.pop("question")
+    if "answer"       in item: item["response"]             = item.pop("answer")
+    if "contexts"     in item: item["retrieved_contexts"]   = item.pop("contexts")
+    if "ground_truth" in item: item["reference"]            = item.pop("ground_truth")
 
 df = pd.DataFrame(data)
 dataset = Dataset.from_pandas(df)

@@ -116,8 +116,8 @@ for i, entrada in enumerate(golden_dataset):
             eos_token_id=tokenizer.eos_token_id,
         )
 
-    full_response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    answer = full_response.split("assistant")[-1].strip()
+    input_len = inputs["input_ids"].shape[1]
+    answer = tokenizer.decode(outputs[0][input_len:], skip_special_tokens=True).strip()
 
     results.append({
         "question":     pregunta,

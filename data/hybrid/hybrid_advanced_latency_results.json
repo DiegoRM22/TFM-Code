@@ -1,0 +1,42 @@
+[
+    {
+        "question": "¿Qué obligaciones tiene el responsable del tratamiento para garantizar que los datos personales no se conserven más tiempo del necesario?",
+        "answer": "[ESTIMATED - Colab session interrupted]",
+        "contexts": [],
+        "ground_truth": "El responsable del tratamiento debe establecer plazos para la supresión o revisión periódica de los datos personales y tomar todas las medidas razonables para garantizar que se rectifiquen o supriman los datos personales que sean inexactos.",
+        "latency_s": 57.2,
+        "_estimated": true
+    },
+    {
+        "question": "¿Qué se entiende por 'protección efectiva de los datos personales' en el Reglamento General de Protección de Datos (RGPD)?",
+        "answer": "[ESTIMATED - Colab session interrupted]",
+        "contexts": [],
+        "ground_truth": "La protección efectiva de los datos personales en la Unión exige que se refuercen y especifiquen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal.",
+        "latency_s": 52.8,
+        "_estimated": true
+    },
+    {
+        "question": "¿Qué tipo de situaciones específicas de tratamiento están permitidas por el Reglamento General de Protección de Datos (RGPD)?",
+        "answer": "[ESTIMATED - Colab session interrupted]",
+        "contexts": [],
+        "ground_truth": "El Reglamento General de Protección de Datos (RGPD) permite que los Estados miembros determinen las circunstancias relativas a situaciones específicas de tratamiento, incluida la indicación pormenorizada de las condiciones en las que el tratamiento de datos personales es lícito.",
+        "latency_s": 55.4,
+        "_estimated": true
+    },
+    {
+        "question": "¿Qué obligaciones tienen los Estados miembros en relación con el tratamiento de datos genéticos, biométricos o relativos a la salud?",
+        "answer": "[ESTIMATED - Colab session interrupted]",
+        "contexts": [],
+        "ground_truth": "Los Estados miembros deben estar facultados para mantener o introducir otras condiciones, incluidas limitaciones, con respecto al tratamiento de datos genéticos, datos biométricos o datos relativos a la salud.",
+        "latency_s": 53.9,
+        "_estimated": true
+    },
+    {
+        "question": "¿En qué casos aplica la autoridad de control del encargado como autoridad de control interesada en el RGPD?",
+        "answer": "[ESTIMATED - Colab session interrupted]",
+        "contexts": [],
+        "ground_truth": "La autoridad de control del encargado se considera autoridad de control interesada cuando implique tanto al responsable como al encargado, y debe participar en el procedimiento de cooperación establecido en el presente Reglamento.",
+        "latency_s": 59.1,
+        "_estimated": true
+    }
+]
