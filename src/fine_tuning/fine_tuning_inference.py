@@ -21,7 +21,7 @@ print(f"Usando checkpoint: {adapter_path}")
 test_dataset_path = DATA_DIR / "shared" / "dataset_test.json"
 output_path       = DATA_DIR / "fine_tuning" / "fine_tuning_inference_results.json"
 
-print("1. Cargando configuración técnica...")
+print("Cargando configuración técnica...")
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16,
@@ -29,14 +29,14 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=False,
 )
 
-print("2. Cargando modelo base...")
+print("Cargando modelo base...")
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     quantization_config=bnb_config,
     trust_remote_code=True,
 )
 
-print("3. Cargando adaptador LoRA...")
+print("Cargando adaptador LoRA...")
 model = PeftModel.from_pretrained(model, adapter_path)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -47,7 +47,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token
 
 test_data = []
-print("4. Parseando dataset de test...")
+print("Parseando dataset de test...")
 with open(test_dataset_path, 'r', encoding='utf-8') as f:
     for line in f:
         if not line.strip():

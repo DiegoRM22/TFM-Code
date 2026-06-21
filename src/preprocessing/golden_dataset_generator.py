@@ -13,15 +13,12 @@ DATA_DIR = PROJECT_ROOT / "data"
 directorio_db = str(DATA_DIR / "vectorstore" / "db_rgpd_pymupdf")
 archivo_salida = str(DATA_DIR / "shared" / "golden_dataset_raw_limpio100.json")
 
-print("Iniciando Llama-3...")
 llm = OllamaLLM(model="llama3:8b", temperature=0.0)
 
-print("Cargando embeddings...")
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-m3",
     model_kwargs={'device': 'cpu'}
 )
-print("Conectando a ChromaDB...")
 vector_db = Chroma(persist_directory=directorio_db, embedding_function=embeddings)
 
 documentos = vector_db.get()

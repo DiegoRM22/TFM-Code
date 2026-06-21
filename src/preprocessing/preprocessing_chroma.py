@@ -14,7 +14,6 @@ directorio_db = str(DATA_DIR / "vectorstore" / "db_rgpd")
 if not os.path.exists(archivo_pdf):
     print(f"Error: No encuentro el archivo {archivo_pdf}")
 else:
-    print("Cargando PDF...")
     loader = PyPDFLoader(archivo_pdf)
     paginas = loader.load()
 
@@ -26,13 +25,11 @@ else:
     fragmentos = text_splitter.split_documents(paginas)
     print(f"PDF dividido en {len(fragmentos)} trozos.")
 
-    print("Cargando modelo de embeddings...")
     embeddings = HuggingFaceEmbeddings(
         model_name="BAAI/bge-m3",
         model_kwargs={'device': 'cpu'}
     )
 
-    print("Indexando en ChromaDB...")
     vector_db = Chroma.from_documents(
         documents=fragmentos,
         embedding=embeddings,

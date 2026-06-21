@@ -27,7 +27,7 @@ DATA_DIR = PROJECT_ROOT / "data"
 input_file  = DATA_DIR / "baseline" / "baseline_inference_results.json"
 output_file = DATA_DIR / "baseline" / "baseline_evaluation_results.csv"
 
-print("1. Cargando datos de inferencia baseline...")
+print("Cargando datos de inferencia baseline...")
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
 
@@ -49,11 +49,11 @@ for item in data:
 df = pd.DataFrame(data)
 dataset = Dataset.from_pandas(df)
 
-print("2. Configurando Juez Llama-3 (Ollama)...")
+print("Configurando Juez Llama-3 (Ollama)...")
 evaluador_llm = ChatOllama(model="llama3:8b", temperature=0)
 evaluador_wrapper = LangchainLLMWrapper(evaluador_llm)
 
-print("3. Cargando Embeddings (BAAI/bge-m3)...")
+print("Cargando Embeddings (BAAI/bge-m3)...")
 embeddings_wrapper = LangchainEmbeddingsWrapper(BgeM3Embeddings("BAAI/bge-m3"))
 
 configuracion_lenta = RunConfig(max_workers=1, timeout=600)
@@ -63,7 +63,7 @@ metricas = [
     AnswerCorrectness(llm=evaluador_wrapper, embeddings=embeddings_wrapper),
 ]
 
-print("4. Iniciando evaluación RAGAS baseline...")
+print("Iniciando evaluación RAGAS baseline...")
 result = evaluate(dataset=dataset, metrics=metricas, run_config=configuracion_lenta)
 
 print("\n" + "=" * 40)

@@ -17,7 +17,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR   = PROJECT_ROOT / "data"
 MODELS_DIR = PROJECT_ROOT / "models"
 
-print("1. Cargando y formateando el dataset...")
+print("Cargando y formateando el dataset...")
 
 archivo_json = DATA_DIR / "shared" / "golden_dataset_raw_limpio100.json"
 
@@ -57,7 +57,7 @@ dataset['test'].to_json(str(DATA_DIR / "shared" / "dataset_test.json"), force_as
 
 print(f"Dataset: {len(dataset['train'])} Train | {len(dataset['validation'])} Val | {len(dataset['test'])} Test")
 
-print("2. Cargando modelo Llama-3 en 4 bits...")
+print("Cargando modelo Llama-3 en 4 bits...")
 model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 
 bnb_config = BitsAndBytesConfig(
@@ -89,7 +89,7 @@ peft_config = LoraConfig(
 
 output_dir = str(MODELS_DIR / "fine_tuning" / "local_checkpoints")
 
-print("3. Iniciando Fine-Tuning...")
+print("Iniciando Fine-Tuning...")
 sft_config = SFTConfig(
     output_dir=output_dir,
     max_steps=120,
@@ -124,7 +124,7 @@ trainer = SFTTrainer(
 
 trainer.train()
 
-print("4. Guardando adaptadores LoRA...")
+print("Guardando adaptadores LoRA...")
 lora_dir = str(MODELS_DIR / "fine_tuning" / "local_lora")
 trainer.model.save_pretrained(lora_dir)
 tokenizer.save_pretrained(lora_dir)

@@ -13,7 +13,7 @@ model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 test_dataset_path = DATA_DIR / "shared" / "dataset_test.json"
 output_path       = DATA_DIR / "baseline" / "baseline_inference_results.json"
 
-print("1. Cargando configuración técnica...")
+print("Cargando configuración técnica...")
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16,
@@ -21,7 +21,7 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=False,
 )
 
-print("2. Cargando modelo base Llama-3-8B (sin LoRA)...")
+print("Cargando modelo base Llama-3-8B (sin LoRA)...")
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     quantization_config=bnb_config,
@@ -35,7 +35,7 @@ model.eval()
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token
 
-print("3. Parseando dataset de test...")
+print("Parseando dataset de test...")
 test_data = []
 with open(test_dataset_path, 'r', encoding='utf-8') as f:
     for line in f:
@@ -58,7 +58,7 @@ with open(test_dataset_path, 'r', encoding='utf-8') as f:
 print(f"Total muestras: {len(test_data)}")
 
 results = []
-print("\n4. Inferencia con modelo BASE (mismo contexto que fine-tuned)...")
+print("\nInferencia con modelo BASE (mismo contexto que fine-tuned)...")
 for i, entry in enumerate(test_data):
     pregunta = entry['question']
     contexto = entry['context']

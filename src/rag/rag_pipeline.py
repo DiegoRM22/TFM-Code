@@ -9,7 +9,6 @@ from langchain_core.runnables import RunnablePassthrough
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
-print("Iniciando sistema RAG legal...")
 
 embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-m3")
 
