@@ -1,0 +1,6 @@
+Iniciando evaluación RAGAS — RAG test set (14q × 4 métricas)...
+
+--- RESULTADOS RAG TEST SET ---
+{'faithfulness': 0.9524, 'answer_relevancy': 0.7913, 'context_precision': 0.9765, 'context_recall': 0.9107}
+
+Resultados guardados en 'C:\Diego\Master IA\TFM\data\rag\rag_evaluation_test_results.csv'

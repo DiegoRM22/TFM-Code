@@ -12,12 +12,7 @@ ENV/
 *.pt
 *.safetensors
 *.pkl
-# Si tus JSON o CSV de datos son muy grandes, puedes excluirlos:
-# *.json
-# *.csv
-# Pero permite los scripts de configuración:
-!resultados_para_ragas.json
-!metricas_finetuning_resultados.csv
+*.zip
 
 # === Archivos Ocultos del Sistema ===
 .DS_Store
@@ -34,8 +29,13 @@ __pycache__/
 .ipynb_checkpoints/
 
 # === Credenciales y Secretos ===
-# Por si acaso en el futuro usas APIs (como OpenAI) y creas un archivo .env
 .env
 secretos.*
 *.pem
 *.key
+
+data/db_rgpd/
+data/db_rgpd_pymupdf/
+models/resultados_rgpd_llama3/
+models/llama3_rgpd_lora/
+**/checkpoint-*/
